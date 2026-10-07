@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Captura manual — Comparador</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📥</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#F2F4F6;--card:#fff;--ink:#1D2733;--muted:#5B6878;--line:#DCE2E8;--brand:#2D4BD8;box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#151A21;--card:#1E252E;--ink:#E7ECF1;--muted:#9AA7B5;--line:#2E3844;--brand:#7B93FF}}
+:root[data-theme="dark"]{--paper:#151A21;--card:#1E252E;--ink:#E7ECF1;--muted:#9AA7B5;--line:#2E3844;--brand:#7B93FF}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.6 "Figtree",system-ui,sans-serif}
+main{max-width:680px;margin:0 auto;padding:36px 20px 60px}
+h1{font:800 32px/1.1 "Bricolage Grotesque","Arial Narrow",sans-serif;margin:0 0 10px;letter-spacing:-.02em}
+h2{font:700 19px/1.2 "Bricolage Grotesque","Arial Narrow",sans-serif;margin:30px 0 8px}
+p,li{color:var(--ink)} .muted{color:var(--muted)}
+ol{padding-left:22px} li{margin:6px 0}
+.bm{display:inline-block;margin:14px 0 4px;padding:12px 20px;border-radius:12px;background:var(--brand);color:#fff;font-weight:600;text-decoration:none;cursor:grab}
+code{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:14px}
+a{color:var(--brand)}
+</style>
+</head>
+<body>
+<main>
+<p><a href="./">Voltar ao comparador</a></p>
+<h1>Captura manual</h1>
+<p>Para sites que bloqueiam a coleta automática, como o GGMAX. Você abre a página no seu navegador e o botão salva os anúncios que estão nela.</p>
+
+<h2>Instalar o botão</h2>
+<p>Mostre a barra de favoritos (Ctrl+Shift+B) e arraste este botão para ela:</p>
+<a class="bm" id="bm" href="#">Salvar no comparador</a>
+<p class="muted">No celular não dá para arrastar: use no computador.</p>
+
+<h2>Capturar uma categoria</h2>
+<ol>
+  <li>Abra a categoria que te interessa no site, já com os filtros e a ordenação que quiser.</li>
+  <li>Clique em <b>Salvar no comparador</b> na barra de favoritos.</li>
+  <li>Ele rola a página, passa sozinho pelas próximas páginas da categoria (até 100) e no fim baixa um único arquivo <code>captura_….json</code> com tudo. Clique no aviso para parar antes e salvar o que já carregou.</li>
+  <li>Deixe a aba aberta enquanto ele trabalha. Uma categoria grande pode levar alguns minutos.</li>
+</ol>
+
+<h2>Levar para o comparador</h2>
+<p>No seu PC, os arquivos da pasta Downloads entram sozinhos na próxima atualização. Para entrarem na hora, rode:</p>
+<p><code>.venv\Scripts\python -m scraper.main --only capturas</code></p>
+<p>No GitHub, envie os arquivos para a pasta <code>capturas</code> do repositório.</p>
+<p class="muted">Cada nova captura de uma página substitui a anterior dela, então anúncios que saíram somem. Capturas com mais de 7 dias deixam de aparecer; ajuste em <code>manual_max_age_days</code> no sites.yaml.</p>
+</main>
+<script type="text/plain" id="src">(async () => {
+  if (window.__compCapt) { alert("A captura já está rodando nesta aba."); return; }
+  window.__compCapt = true;
+  const MAX_PAGES = 100;
+  const box = document.createElement("div");
+  box.style.cssText = "position:fixed;z-index:2147483647;top:14px;right:14px;max-width:340px;background:#1D2733;color:#fff;font:14px/1.45 system-ui,sans-serif;padding:14px 16px;border-radius:12px;box-shadow:0 8px 28px rgba(0,0,0,.35);cursor:pointer";
+  document.body.appendChild(box);
+  let stop = false;
+  box.onclick = () => { stop = true; say("Parando e salvando…"); };
+  const say = t => { box.innerHTML = t; };
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+  const clean = h => String(h).split("#")[0];
+  const PRICE = /R\$\s*([\d.]+,\d{2})/g;
+  const prices = t => [...String(t || "").matchAll(PRICE)].map(m => parseFloat(m[1].replace(/\./g, "").replace(",", "."))).filter(v => v > 0);
+  const text = el => (el.innerText || el.textContent || "");
+  const all = new Map();
+  let page = 1;
+  const status = extra => say(`Página ${page} de até ${MAX_PAGES}: ${all.size} anúncios${extra ? "<br>" + extra : ""}<br><small>Clique aqui para parar e salvar o que já tem.</small>`);
+
+  /* rola o documento e clica em "carregar mais" até parar de crescer */
+  async function loadAll(doc, win) {
+    let lastH = 0, still = 0;
+    for (let round = 0; round < 400 && !stop; round++) {
+      win.scrollBy(0, Math.round((win.innerHeight || 800) * 0.9));
+      await sleep(700);
+      const more = [...doc.querySelectorAll("button,a")].find(b => /^(carregar|ver|mostrar) mais|load more/i.test(text(b).trim()) && b.offsetParent);
+      if (more) { more.click(); await sleep(1500); still = 0; }
+      const h = doc.documentElement.scrollHeight;
+      still = (h === lastH && !more) ? still + 1 : 0;
+      lastH = h;
+      if (still >= 4) break;
+    }
+  }
+
+  function extract(doc, re) {
+    const origin = doc.location.origin;
+    const isProd = h => { try { return h.startsWith(origin) && re.test(new URL(h).pathname); } catch (e) { return false; } };
+    const countLinks = el => new Set([...el.querySelectorAll("a[href]")].map(x => clean(x.href)).filter(isProd)).size;
+    const out = new Map();
+    for (const a of doc.querySelectorAll("a[href]")) {
+      const href = clean(a.href);
+      if (!isProd(href) || out.has(href)) continue;
+      let card = a;
+      for (let i = 0; i < 8; i++) {
+        if (card.querySelector("img") && /R\$\s*\d/.test(text(card))) break;
+        const p = card.parentElement;
+        if (!p || countLinks(p) > 1) break;
+        card = p;
+      }
+      const vals = prices(text(card));
+      if (!vals.length) continue;
+      const img = card.querySelector("img");
+      const tEl = card.querySelector("h1,h2,h3,h4,h5,h6,[class*=title i],[class*=name i]");
+      const name = ((tEl && text(tEl)) || (img && img.alt) || a.title || text(a)).trim().replace(/\s+/g, " ");
+      if (!name) continue;
+      const min = Math.min(...vals), max = Math.max(...vals);
+      out.set(href, { link: href, name: name.slice(0, 200), price: min, list_price: max > min ? max : null,
+        image: img ? (img.currentSrc || img.src || img.dataset.src || "") : "", text: text(card).slice(0, 400) });
+    }
+    return [...out.values()];
+  }
+
+  function pickPattern(doc) {
+    const pats = {};
+    for (const a of doc.querySelectorAll("a[href]")) {
+      try {
+        const u = new URL(a.href);
+        if (u.origin !== doc.location.origin) continue;
+        const seg = u.pathname.split("/").filter(Boolean);
+        if (seg.length > 1) pats[seg[0]] = (pats[seg[0]] || 0) + 1;
+      } catch (e) {}
+    }
+    let best = null, n = 0;
+    for (const seg of Object.keys(pats).sort((a, b) => pats[b] - pats[a]).slice(0, 6)) {
+      const re = new RegExp("^/" + seg.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "/");
+      const k = extract(doc, re).length;
+      if (k > n) { n = k; best = re; }
+    }
+    return best;
+  }
+
+  function findNext(doc) {
+    const cands = [...doc.querySelectorAll("a[rel=next],a,button,[role=button]")];
+    let el = cands.find(x => x.rel === "next")
+      || cands.find(x => /^(próxima|proxima|próximo|proximo|seguinte|›|»|>|next)(\s*(página|pagina))?\s*[›»>]?$/i.test(text(x).trim() || x.getAttribute("aria-label") || ""))
+      || cands.find(x => /pr[oó]xima|next/i.test(x.getAttribute("aria-label") || ""));
+    if (!el || el.disabled || el.getAttribute("aria-disabled") === "true" || /disabled/.test(el.className)) return null;
+    return el;
+  }
+
+  let re = pickPattern(document);
+  if (!re) { await loadAll(document, window); re = pickPattern(document); }
+  if (!re) { say("Nenhum anúncio com preço encontrado nesta página."); window.__compCapt = false; setTimeout(() => box.remove(), 6000); return; }
+
+  /* percorre as páginas: no próprio documento (paginação por botão) ou num iframe (paginação por link) */
+  let doc = document, win = window, frame = null, note = "";
+  for (; page <= MAX_PAGES && !stop; page++) {
+    status();
+    await loadAll(doc, win);
+    extract(doc, re).forEach(i => all.has(i.link) || all.set(i.link, i));
+    status();
+    if (page >= MAX_PAGES || stop) break;
+    const next = findNext(doc);
+    if (!next) break;
+    const href = next.tagName === "A" ? next.href : "";
+    const firstBefore = (extract(doc, re)[0] || {}).link;
+    if (href && clean(href) !== clean(doc.location.href) && !/^javascript:/i.test(href)) {
+      if (!frame) {
+        frame = document.createElement("iframe");
+        frame.style.cssText = "position:fixed;left:-12000px;top:0;width:1280px;height:900px;border:0";
+        document.body.appendChild(frame);
+      }
+      const loaded = new Promise(r => { frame.onload = r; setTimeout(r, 25000); });
+      frame.src = href;
+      await loaded;
+      await sleep(2500);
+      try { doc = frame.contentDocument; win = frame.contentWindow; if (!doc || !doc.body) throw 0; }
+      catch (e) { note = "O site não deixou abrir as próximas páginas sozinho: abra a próxima e clique de novo."; break; }
+    } else {
+      next.click();
+      for (let t = 0; t < 20; t++) { await sleep(500); if ((extract(doc, re)[0] || {}).link !== firstBefore) break; }
+      win.scrollTo(0, 0);
+    }
+    await sleep(1200 + Math.random() * 800);
+  }
+  if (frame) frame.remove();
+
+  if (!all.size) { say("Nenhum anúncio com preço encontrado."); window.__compCapt = false; setTimeout(() => box.remove(), 6000); return; }
+  const h1 = document.querySelector("h1");
+  const category = (h1 ? text(h1) : document.title).trim().replace(/\s+/g, " ").slice(0, 80);
+  const host = location.hostname.replace(/^www\./, "");
+  const site = ({ "ggmax.com.br": "GGMAX" })[host] || host;
+  const now = new Date(), pad = n => String(n).padStart(2, "0");
+  const stamp = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}_${pad(now.getHours())}${pad(now.getMinutes())}`;
+  const slug = (location.pathname + location.search).replace(/[^a-z0-9]+/gi, "-").replace(/^-|-$/g, "").slice(0, 60) || "inicio";
+  const data = { site, page_url: location.href, category, captured_at: now.toISOString(), pages: Math.min(page, MAX_PAGES),
+    items: [...all.values()].map(i => ({ ...i, site_category: category })) };
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(data)], { type: "application/json" }));
+  a.download = `captura_${host.split(".")[0]}_${slug}_${stamp}.json`;
+  document.body.appendChild(a); a.click(); a.remove();
+  say(`✓ ${all.size} anúncios de “${category}” salvos (${data.pages} ${data.pages > 1 ? "páginas" : "página"}).` + (note ? "<br><small>" + note + "</small>" : ""));
+  window.__compCapt = false;
+  setTimeout(() => box.remove(), 12000);
+})();
+</script>
+<script>
+document.getElementById("bm").href = "javascript:" + encodeURIComponent(document.getElementById("src").textContent);
+document.getElementById("bm").addEventListener("click", e => { e.preventDefault(); alert("Arraste este botão para a barra de favoritos e use-o na página do site."); });
+</script>
+</body>
+</html>

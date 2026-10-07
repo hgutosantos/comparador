@@ -1,0 +1,60 @@
+sites:
+  - name: Lupax
+    enabled: true
+    start_urls: ["https://lupax.site/"]
+    product_link_regex: "/package/"
+    crawl_regex: "/category/"
+    max_pages: 80
+    detail_fetch: missing
+
+  - name: Pluffy
+    enabled: true
+    start_urls: ["https://pluffy.site/"]
+    product_link_regex: "/package/"
+    crawl_regex: "/category/"
+    max_pages: 80
+    detail_fetch: missing
+
+  - name: GMD Marketing
+    enabled: false
+    start_urls: ["https://gmdmarketing.shop/"]
+    product_link_regex: "/package/|/produto/|/product/"
+    crawl_regex: "/category/|/categoria/"
+    max_pages: 80
+    detail_fetch: missing
+    verify: true
+
+  - name: Geniuz Hints
+    enabled: true
+    type: api
+    start_urls: ["https://store.geniuzhints.com.br/"]
+    api_urls: ["https://store.geniuzhints.com.br/api/public/showcase"]
+    link_fallback: "https://store.geniuzhints.com.br/#produtos"
+    category_field: provider
+
+  - name: Basefy
+    enabled: true
+    start_urls: ["https://basefy.io/"]
+    product_link_regex: "^/p/"
+    crawl_regex: "/buscar\\?"
+    max_pages: 80
+    detail_fetch: missing
+
+  - name: GGMAX
+    enabled: false
+    start_urls:
+      - "https://ggmax.com.br/categoria/jogos/roblox"
+      - "https://ggmax.com.br/categoria/jogos/valorant"
+      - "https://ggmax.com.br/categoria/jogos/league-of-legends"
+    product_link_regex: "/anuncio/"
+    crawl_regex: "^$"
+    max_pages: 80
+    detail_fetch: never
+    verify: true
+
+settings:
+  page_timeout_ms: 45000
+  scroll_rounds: 12
+  detail_limit_per_site: 150
+  delay_ms: 800
+  stale_after_hours: 6

@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Comparador de produtos digitais</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔎</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js" defer></script>
+<style>
+:root{
+  --paper:#F2F4F6; --card:#FFFFFF; --ink:#1D2733; --muted:#5B6878; --line:#DCE2E8;
+  --brand:#2D4BD8; --brand-ink:#FFFFFF; --best:#0A7D5A; --mark:#FFE14D; --warn:#B4441F;
+  --display:"Bricolage Grotesque", "Arial Narrow", system-ui, sans-serif;
+  --body:"Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){--paper:#151A21;--card:#1E252E;--ink:#E7ECF1;--muted:#9AA7B5;--line:#2E3844;--brand:#7B93FF;--brand-ink:#0F1420;--best:#3CCB98;--mark:#8A7300;--warn:#FF8A63}
+}
+:root[data-theme="dark"]{--paper:#151A21;--card:#1E252E;--ink:#E7ECF1;--muted:#9AA7B5;--line:#2E3844;--brand:#7B93FF;--brand-ink:#0F1420;--best:#3CCB98;--mark:#8A7300;--warn:#FF8A63}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 15px/1.5 var(--body)}
+a{color:inherit}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--brand);outline-offset:2px;border-radius:6px}
+img{max-width:100%}
+
+/* topo */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--paper);border-bottom:1px solid var(--line)}
+.top-in{max-width:1320px;margin:0 auto;padding:14px 20px 12px;display:grid;grid-template-columns:auto 1fr auto;gap:12px 20px;align-items:center}
+.logo{font:800 22px/1 var(--display);letter-spacing:-.02em;margin:0;white-space:nowrap}
+.search{position:relative}
+.search input{width:100%;height:44px;border:1.5px solid var(--line);border-radius:12px;background:var(--card);padding:0 14px 0 40px}
+.search input:focus{border-color:var(--brand);outline:none}
+.search svg{position:absolute;left:13px;top:13px;width:18px;height:18px;color:var(--muted)}
+.stamp{font-size:13px;color:var(--muted);text-align:right;white-space:nowrap}
+.stamp b{color:var(--ink);font-weight:600}
+
+/* barra de controles */
+.bar{max-width:1320px;margin:0 auto;padding:10px 20px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.views{display:inline-flex;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:3px}
+.views button{border:0;background:none;padding:7px 14px;border-radius:9px;cursor:pointer;font-weight:600;color:var(--muted)}
+.views button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.spacer{flex:1}
+.btn{height:38px;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:0 14px;cursor:pointer;font-weight:600;display:inline-flex;align-items:center;gap:6px}
+.btn.primary{background:var(--brand);border-color:var(--brand);color:var(--brand-ink)}
+.btn.filters-toggle{display:none}
+
+/* layout */
+.wrap{max-width:1320px;margin:0 auto;padding:6px 20px 60px;display:grid;grid-template-columns:250px 1fr;gap:28px;align-items:start}
+aside{position:sticky;top:132px;max-height:calc(100vh - 150px);overflow:auto;padding-right:4px}
+.fgroup{margin-bottom:22px}
+.fgroup h2{font:700 15px/1.2 var(--display);margin:0 0 10px}
+.chk{display:flex;align-items:center;gap:9px;padding:5px 0;cursor:pointer;font-size:14px}
+.chk input{width:17px;height:17px;accent-color:var(--brand)}
+.chk .n{margin-left:auto;color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+.chk .err{color:var(--warn);font-size:12px}
+.dot{width:10px;height:10px;border-radius:50%;flex:none}
+.range{display:flex;gap:8px}
+.range input,.fgroup select{width:100%;height:38px;border:1px solid var(--line);border-radius:9px;background:var(--card);padding:0 10px}
+.clear{background:none;border:0;color:var(--brand);font-weight:600;cursor:pointer;padding:0}
+.count{font-size:14px;color:var(--muted);margin:0 0 14px}
+.count b{color:var(--ink)}
+
+/* vitrine */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none}
+.card:hover{border-color:var(--ink)}
+.banner{aspect-ratio:16/10;background:var(--paper);display:block;width:100%;object-fit:cover;border-bottom:1px solid var(--line)}
+.ph{aspect-ratio:16/10;display:grid;place-items:center;font:800 34px/1 var(--display);color:var(--muted);border-bottom:1px solid var(--line);background:repeating-linear-gradient(135deg,var(--paper) 0 10px,transparent 10px 20px)}
+.cbody{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.site{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;color:var(--muted)}
+.name{font-weight:600;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.7em}
+.cat{font-size:12px;color:var(--muted)}
+.price{font:800 24px/1 var(--display);font-variant-numeric:tabular-nums;letter-spacing:-.01em;margin-top:auto;padding-top:6px}
+.price.none{font:600 14px/1.2 var(--body);color:var(--muted)}
+.best{align-self:flex-start;font-size:12px;font-weight:600;color:var(--ink);background:linear-gradient(transparent 45%,var(--mark) 45%);padding:0 2px}
+
+.cheaper{font-size:12px;color:var(--muted)}
+.cheaper b{color:var(--best);font-weight:600}
+.off{display:inline-block;font-size:11px;font-weight:700;color:var(--best);margin-left:6px;vertical-align:middle;font-family:var(--body)}
+.was{font:500 12px/1 var(--body);color:var(--muted);text-decoration:line-through;margin-left:6px}
+.sec{grid-column:1/-1;font:800 20px/1.1 var(--display);margin:18px 0 2px;letter-spacing:-.01em;display:flex;align-items:baseline;gap:10px}
+.sec:first-child{margin-top:0}
+.sec span{font:500 13px/1 var(--body);color:var(--muted)}
+tr.sec-row td{background:var(--paper);font:700 15px/1.2 var(--display);padding:12px}
+td img.th{width:56px;height:36px;object-fit:cover;border-radius:6px;display:block;background:var(--paper)}
+td.best-yes{color:var(--best);font-weight:700}
+/* comparar */
+.cmp{display:flex;flex-direction:column;gap:16px}
+.gblock{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+.ghead{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:10px}
+.ghead h3{font:800 20px/1.1 var(--display);margin:0;letter-spacing:-.01em}
+.ghead span{color:var(--muted);font-size:13px}
+.offers{display:flex;flex-direction:column}
+.offer{display:grid;grid-template-columns:52px 1fr auto auto;gap:12px;align-items:center;padding:9px 0;border-top:1px solid var(--line);text-decoration:none}
+.offer img,.offer .mini{width:52px;height:34px;object-fit:cover;border-radius:6px;background:var(--paper)}
+.offer .t{min-width:0}
+.offer .t div{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:500}
+.offer .p{font:700 18px/1 var(--display);font-variant-numeric:tabular-nums;text-align:right}
+.offer.first .p{color:var(--best)}
+.offer .go{font-size:13px;font-weight:600;color:var(--brand)}
+.more{background:none;border:0;color:var(--brand);font-weight:600;cursor:pointer;padding:8px 0 0}
+
+/* tabela */
+.tablebox{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:14px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{position:sticky;top:0;background:var(--card);font-weight:600;white-space:nowrap;cursor:pointer;user-select:none}
+th[aria-sort="ascending"]::after{content:" ▲";font-size:10px}
+th[aria-sort="descending"]::after{content:" ▼";font-size:10px}
+td.v{font-variant-numeric:tabular-nums;white-space:nowrap;font-weight:600}
+td a{color:var(--brand);font-weight:600}
+
+.empty{padding:50px 20px;text-align:center;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font:700 18px/1.3 var(--display);margin-bottom:6px}
+
+@media (max-width:860px){
+  .top-in{grid-template-columns:1fr auto;padding:12px 14px 10px}
+  .search{grid-column:1/-1;grid-row:2}
+  .bar{padding:8px 14px}
+  .btn.filters-toggle{display:inline-flex}
+  .wrap{grid-template-columns:1fr;padding:4px 14px 60px}
+  aside{display:none;position:fixed;inset:0;top:auto;max-height:82vh;z-index:40;background:var(--card);border-radius:18px 18px 0 0;padding:20px 18px calc(20px + env(safe-area-inset-bottom,0px));box-shadow:0 -10px 40px rgba(0,0,0,.25)}
+  aside.open{display:block}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .price{font-size:20px}
+  .offer{grid-template-columns:44px 1fr auto}
+  .offer .go{display:none}
+  .views button{padding:7px 10px}
+}
+.sheet-close{display:none}
+@media (max-width:860px){.sheet-close{display:block;width:100%;margin-top:6px}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <h1 class="logo">Comparador</h1>
+    <label class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Buscar produto, ex.: netflix, canva, chatgpt" autocomplete="off" aria-label="Buscar produto">
+    </label>
+    <div class="stamp" id="stamp">Carregando…</div>
+  </div>
+  <div class="bar">
+    <div class="views" role="group" aria-label="Modo de exibição">
+      <button data-view="grid" aria-pressed="true">Vitrine</button>
+      <button data-view="cmp" aria-pressed="false">Comparar</button>
+      <button data-view="table" aria-pressed="false">Tabela</button>
+    </div>
+    <button class="btn filters-toggle" id="openFilters">Filtros</button>
+    <span class="spacer"></span>
+    <button class="btn" id="expCsv">Exportar CSV</button>
+    <button class="btn primary" id="expXlsx">Exportar Excel</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <aside id="filters" aria-label="Filtros">
+    <div class="fgroup"><h2>Ordenar</h2>
+      <select id="sort">
+        <option value="price-asc">Menor preço</option>
+        <option value="price-desc">Maior preço</option>
+        <option value="popular">Mais populares</option>
+        <option value="category">Categoria (agrupada)</option>
+        <option value="discount">Maior desconto</option>
+        <option value="name">Nome (A–Z)</option>
+        <option value="site">Site</option>
+      </select>
+    </div>
+    <div class="fgroup"><h2>Melhor preço</h2>
+      <label class="chk"><input type="checkbox" id="onlyBest"> Só o melhor preço de cada produto</label>
+      <label class="chk"><input type="radio" name="mult" value="all" checked> Todos os produtos</label>
+      <label class="chk"><input type="radio" name="mult" value="multi"> Com mais de um anúncio<span class="n" id="nMulti"></span></label>
+      <label class="chk"><input type="radio" name="mult" value="single"> Anúncio único<span class="n" id="nSingle"></span></label>
+    </div>
+    <div class="fgroup"><h2>Sites</h2><div id="fSites"></div></div>
+    <div class="fgroup"><h2>Categoria</h2><div id="fCats"></div></div>
+    <div class="fgroup"><h2>Preço (R$)</h2>
+      <div class="range"><input id="pmin" inputmode="decimal" placeholder="mín."><input id="pmax" inputmode="decimal" placeholder="máx."></div>
+      <label class="chk" style="margin-top:8px"><input type="checkbox" id="hasPrice"> Só com preço informado</label>
+    </div>
+    <button class="clear" id="clear">Limpar filtros</button>
+    <button class="btn primary sheet-close" id="closeFilters">Ver resultados</button>
+  </aside>
+
+  <main>
+    <p class="count" id="count"></p>
+    <div id="out"></div>
+  </main>
+</div>
+
+<script>
+const SITE_COLORS = ["#2D4BD8","#E0662B","#0A8F6C","#B4308C","#C79A00","#4A9BD6","#7A55D3","#D03A3A","#3F7F3A","#6B6F7A"];
+const brl = v => v == null ? "" : v.toLocaleString("pt-BR",{style:"currency",currency:"BRL"});
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const norm = s => String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+const $ = id => document.getElementById(id);
+
+let DATA = {products:[], sites:[]}, view = "grid", tableSort = null;
+const state = {q:"", sites:new Set(), cats:new Set(), pmin:null, pmax:null, hasPrice:false, sort:"price-asc", onlyBest:false, mult:"all"};
+const siteColor = {};
+
+/* "mesmo produto" = mesma match_key (grupo + duração, ou nome normalizado) em qualquer site */
+function enrich(){
+  const by = {};
+  DATA.products.forEach(p => { const k = p.match_key || p.name; (by[k] ||= []).push(p); });
+  Object.values(by).forEach(list => {
+    const priced = list.filter(p => p.price != null).sort((a,b) => a.price - b.price || b.popularity - a.popularity);
+    const best = priced[0];
+    const sites = new Set(list.map(p => p.site)).size;
+    list.forEach(p => {
+      p._n = list.length; p._sites = sites;
+      p._best = best ? best.price : null; p._bestSite = best ? best.site : ""; p._bestLink = best ? best.link : "";
+      p._isBest = best ? p === best : list.length === 1;
+      p._off = p.list_price && p.price ? Math.round((1 - p.price / p.list_price) * 100) : 0;
+      p._label = p.match_label || p.name;
+    });
+  });
+}
+
+async function load(){
+  try{
+    const r = await fetch("data/products.json?t=" + Date.now(), {cache:"no-store"});
+    if(!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+  }catch(e){
+    $("stamp").textContent = "Sem dados ainda";
+    $("out").innerHTML = `<div class="empty"><strong>Nenhum dado coletado ainda</strong>Rode a atualização (rodar_local.py ou o workflow no GitHub) para gerar data/products.json.</div>`;
+    return;
+  }
+  DATA.sites.forEach((s,i) => siteColor[s.name] = SITE_COLORS[i % SITE_COLORS.length]);
+  enrich();
+  const d = new Date(DATA.generated_at);
+  const auto = DATA.sites.filter(s => s.status !== "manual"), ok = auto.filter(s => s.status === "ok").length;
+  $("stamp").innerHTML = `Atualizado <b>${d.toLocaleDateString("pt-BR")} às ${d.toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"})}</b><br>${ok} de ${auto.length} sites em dia <a href="captura.html" style="color:var(--brand)">Captura manual</a>`;
+  buildFilters(); render();
+}
+
+function buildFilters(){
+  const bySite = {}, byCat = {};
+  DATA.products.forEach(p => { bySite[p.site]=(bySite[p.site]||0)+1; byCat[p.category]=(byCat[p.category]||0)+1; });
+  $("fSites").innerHTML = DATA.sites.map(s => `
+    <label class="chk"><input type="checkbox" value="${esc(s.name)}" data-f="sites" ${state.sites.has(s.name)?"checked":""}>
+      <span class="dot" style="background:${siteColor[s.name]}"></span>${esc(s.name)}
+      ${s.status==="manual" ? `<span class="cheaper" title="Captura manual">manual ${new Date(s.last_ok).toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit"})}</span>`
+        : s.status!=="ok" ? `<span class="err" title="${esc(s.error||"")}">${s.status==="erro"?"falhou":"dados antigos"}</span>` : ""}
+      <span class="n">${bySite[s.name]||0}</span></label>`).join("");
+  $("fCats").innerHTML = Object.keys(byCat).sort(catOrder).map(c => `
+    <label class="chk"><input type="checkbox" value="${esc(c)}" data-f="cats" ${state.cats.has(c)?"checked":""}>${esc(c)}<span class="n">${byCat[c]}</span></label>`).join("");
+  $("nMulti").textContent = DATA.products.filter(p => p._n > 1).length;
+  $("nSingle").textContent = DATA.products.filter(p => p._n === 1).length;
+}
+const catOrder = (a,b) => a==="Outros"?1:b==="Outros"?-1:a.localeCompare(b);
+
+function filtered(){
+  const terms = norm(state.q).split(/\s+/).filter(Boolean);
+  let list = DATA.products.filter(p => {
+    if(state.sites.size && !state.sites.has(p.site)) return false;
+    if(state.cats.size && !state.cats.has(p.category)) return false;
+    if(state.hasPrice && p.price == null) return false;
+    if(state.pmin != null && (p.price == null || p.price < state.pmin)) return false;
+    if(state.pmax != null && (p.price == null || p.price > state.pmax)) return false;
+    if(state.onlyBest && !p._isBest) return false;
+    if(state.mult === "multi" && p._n < 2) return false;
+    if(state.mult === "single" && p._n !== 1) return false;
+    if(terms.length){ const h = norm(`${p.name} ${p.group} ${p.category} ${p.site_category} ${p.site}`); if(!terms.every(t => h.includes(t))) return false; }
+    return true;
+  });
+  const byPrice = d => (a,b) => (a.price==null) - (b.price==null) || d*((a.price??0)-(b.price??0));
+  const sorters = {
+    "price-asc": byPrice(1), "price-desc": byPrice(-1),
+    "popular": (a,b) => b.popularity - a.popularity || byPrice(1)(a,b),
+    "category": (a,b) => catOrder(a.category,b.category) || byPrice(1)(a,b),
+    "discount": (a,b) => b._off - a._off || byPrice(1)(a,b),
+    "name": (a,b) => a.name.localeCompare(b.name),
+    "site": (a,b) => a.site.localeCompare(b.site) || byPrice(1)(a,b),
+  };
+  return list.sort(sorters[state.sort]);
+}
+
+const img = (p, cls) => p.image
+  ? `<img class="${cls}" src="${esc(p.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;${cls==="banner"?"ph":"mini"}&quot;>${esc(p.name.trim()[0]||"?").toUpperCase()}</div>'">`
+  : (cls==="banner" ? `<div class="ph">${esc((p.name.trim()[0]||"?").toUpperCase())}</div>` : `<div class="mini"></div>`);
+const siteTag = s => `<span class="site"><span class="dot" style="background:${siteColor[s]}"></span>${esc(s)}</span>`;
+const linkAttrs = `target="_blank" rel="noopener noreferrer"`;
+
+function render(){
+  const list = filtered();
+  $("count").innerHTML = `<b>${list.length.toLocaleString("pt-BR")}</b> de ${DATA.products.length.toLocaleString("pt-BR")} produtos`;
+  if(!list.length){ $("out").innerHTML = `<div class="empty"><strong>Nenhum produto com esses filtros</strong>Tente outra busca ou limpe os filtros.</div>`; return; }
+  if(view === "grid") renderGrid(list); else if(view === "cmp") renderCmp(list); else renderTable(list);
+}
+
+function bestNote(p){
+  if(p._n < 2) return "";
+  if(p._isBest) return `<span class="best">Menor preço entre ${p._n} anúncios</span>`;
+  return p._best != null ? `<span class="cheaper">Menor: <b>${brl(p._best)}</b> na ${esc(p._bestSite)}</span>` : "";
+}
+
+function card(p){
+  return `<a class="card" href="${esc(p.link)}" ${linkAttrs}>
+    ${img(p,"banner")}
+    <div class="cbody">
+      ${siteTag(p.site)}
+      <div class="name">${esc(p.name)}</div>
+      <div class="cat">${esc(p.category)}${p.site_category && p.site_category!==p.category ? " / "+esc(p.site_category) : ""}</div>
+      ${bestNote(p)}
+      ${p.manual ? `<span class="cheaper">Captura manual de ${new Date(p.seen_at).toLocaleDateString("pt-BR")}</span>` : ""}
+      <div class="price ${p.price==null?"none":""}">${p.price==null ? "Ver preço no site" : brl(p.price)}${p._off>0 ? `<span class="was">${brl(p.list_price)}</span><span class="off">-${p._off}%</span>` : ""}</div>
+    </div></a>`;
+}
+
+function renderGrid(list){
+  const LIMIT = 800, shown = list.slice(0, LIMIT);
+  let html = "";
+  if(state.sort === "category"){
+    const counts = {}; list.forEach(p => counts[p.category] = (counts[p.category]||0)+1);
+    let cur = null;
+    shown.forEach(p => { if(p.category !== cur){ cur = p.category; html += `<h2 class="sec">${esc(cur)}<span>${counts[cur]} ${counts[cur]>1?"produtos":"produto"}</span></h2>`; } html += card(p); });
+  } else html = shown.map(card).join("");
+  $("out").innerHTML = `<div class="grid">${html}</div>
+    ${list.length>LIMIT ? `<p class="count" style="margin-top:16px">Mostrando ${LIMIT} de ${list.length}. Refine a busca ou use a Tabela para ver tudo.</p>`:""}`;
+}
+
+function renderCmp(list){
+  const groups = {};
+  list.forEach(p => { if(p._n > 1) (groups[p.match_key || p.name] ||= []).push(p); });
+  const keys = Object.keys(groups).sort((a,b) => groups[b][0]._sites - groups[a][0]._sites || groups[b].length - groups[a].length);
+  if(!keys.length){ $("out").innerHTML = `<div class="empty"><strong>Nenhum produto com mais de um anúncio nesses filtros</strong>Limpe os filtros ou adicione grupos em config/rules.yaml.</div>`; return; }
+  $("out").innerHTML = `<div class="cmp">${keys.map(k => {
+    const items = groups[k].slice().sort((a,b)=>(a.price==null)-(b.price==null)||(a.price??0)-(b.price??0));
+    const priced = items.filter(p=>p.price!=null);
+    const sites = new Set(items.map(p=>p.site)).size;
+    const range = priced.length>1 ? `${brl(priced[0].price)} a ${brl(priced[priced.length-1].price)}` : priced.length ? brl(priced[0].price) : "";
+    const show = 5;
+    return `<section class="gblock">
+      <div class="ghead"><h3>${esc(items[0]._label)}</h3><span>${items.length} ${items.length>1?"anúncios":"anúncio"} em ${sites} ${sites>1?"sites":"site"}${priced.length ? (priced.length>1?", de ":", por ")+range : ", sem preço informado"}</span></div>
+      <div class="offers">${items.map((p,i)=>`
+        <a class="offer ${i===0&&p.price!=null?"first":""}" href="${esc(p.link)}" ${linkAttrs} ${i>=show?'hidden data-extra':""}>
+          ${img(p,"")}
+          <div class="t"><div>${esc(p.name)}</div>${siteTag(p.site)}</div>
+          <div class="p">${p.price==null?"—":brl(p.price)}</div>
+          <span class="go">Abrir no site</span>
+        </a>`).join("")}</div>
+      ${items.length>show ? `<button class="more" data-more>Ver todos os ${items.length} anúncios</button>`:""}
+    </section>`; }).join("")}</div>`;
+}
+
+function renderTable(list){
+  let rows = list;
+  if(tableSort){
+    const {key:k, dir:d} = tableSort;
+    rows = list.slice().sort((a,b) => (a[k]==null)-(b[k]==null) || (typeof a[k]==="number" ? d*(a[k]-b[k]) : d*String(a[k]).localeCompare(String(b[k]))));
+  }
+  const th = (key,label) => `<th data-k="${key}" aria-sort="${tableSort&&tableSort.key===key?(tableSort.dir>0?"ascending":"descending"):"none"}">${label}</th>`;
+  const grouped = state.sort === "category" && !tableSort;
+  let cur = null, body = "";
+  rows.forEach(p => {
+    if(grouped && p.category !== cur){ cur = p.category; body += `<tr class="sec-row"><td colspan="9">${esc(cur)}</td></tr>`; }
+    body += `<tr><td>${p.image?`<img class="th" src="${esc(p.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">`:""}</td>
+      <td>${esc(p.name)}</td><td>${esc(p.category)}</td>
+      <td class="v">${p.price==null?"—":brl(p.price)}</td>
+      <td class="v ${p._isBest&&p._n>1?"best-yes":""}">${p._best==null?"—":brl(p._best)}</td>
+      <td>${esc(p._bestSite)}</td><td class="v">${p._n}</td>
+      <td>${esc(p.site)}</td><td><a href="${esc(p.link)}" ${linkAttrs}>Abrir</a></td></tr>`;
+  });
+  $("out").innerHTML = `<div class="tablebox"><table>
+    <thead><tr><th>Imagem</th>${th("name","Produto")}${th("category","Categoria")}${th("price","Valor")}${th("_best","Melhor preço")}${th("_bestSite","Site do melhor")}${th("_n","Anúncios")}${th("site","Site")}<th>Link</th></tr></thead>
+    <tbody>${body}</tbody></table></div>`;
+}
+
+/* exportação */
+function exportRows(){
+  const now = new Date();
+  const exp = now.toLocaleString("pt-BR"), upd = new Date(DATA.generated_at).toLocaleString("pt-BR");
+  const rows = filtered().map(p => ({
+    "Imagem": p.image || "",
+    "Produto": p.name, "Categoria": p.category, "Valor": p.price,
+    "Melhor preço (mesmo produto)": p._best, "Site do melhor preço": p._bestSite,
+    "É o melhor preço?": p._n < 2 ? "Único" : (p._isBest ? "Sim" : "Não"),
+    "Anúncios do mesmo produto": p._n,
+    "Link": p.link, "Site": p.site, "Link do melhor preço": p._bestLink,
+    "Link da imagem": p.image || "", "Atualizado em": p.manual ? new Date(p.seen_at).toLocaleString("pt-BR") + " (captura manual)" : upd, "Exportado em": exp,
+  }));
+  const pad = n => String(n).padStart(2,"0");
+  const fname = `produtos_${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())}_${pad(now.getHours())}h${pad(now.getMinutes())}`;
+  return {rows, fname};
+}
+function download(blob, name){ const a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download=name; document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(a.href), 2000); }
+$("expCsv").onclick = () => {
+  const {rows, fname} = exportRows(); if(!rows.length) return;
+  const cols = Object.keys(rows[0]).filter(c => c !== "Imagem");
+  const cell = v => v==null ? "" : typeof v==="number" ? String(v).replace(".",",") : `"${String(v).replace(/"/g,'""')}"`;
+  const csv = "\ufeff" + [cols.join(";"), ...rows.map(r => cols.map(c=>cell(r[c])).join(";"))].join("\r\n");
+  download(new Blob([csv],{type:"text/csv;charset=utf-8"}), fname + ".csv");
+};
+$("expXlsx").onclick = () => {
+  if(!window.XLSX){ alert("A biblioteca do Excel ainda está carregando. Tente de novo em instantes ou use Exportar CSV."); return; }
+  const {rows, fname} = exportRows(); if(!rows.length) return;
+  const ws = XLSX.utils.json_to_sheet(rows);
+  const money = '"R$" #,##0.00';
+  rows.forEach((r,i) => {
+    const R = i + 1;
+    // banner dentro da célula (função IMAGEM do Excel 365/2024 e Google Planilhas)
+    ws[XLSX.utils.encode_cell({r:R,c:0})] = r.Imagem
+      ? {t:"s", v:"", f:`_xlfn.IMAGE("${r.Imagem.replace(/"/g,'""')}")`} : {t:"s", v:""};
+    [3,4].forEach(c => { const x = ws[XLSX.utils.encode_cell({r:R,c})]; if(x && typeof x.v==="number") x.z = money; });
+    [8,10,11].forEach(c => { const x = ws[XLSX.utils.encode_cell({r:R,c})]; if(x && x.v) x.l = {Target: x.v}; });
+  });
+  ws["!cols"] = [{wch:16},{wch:55},{wch:16},{wch:11},{wch:13},{wch:16},{wch:10},{wch:10},{wch:45},{wch:14},{wch:45},{wch:45},{wch:30},{wch:19}];
+  ws["!rows"] = [{hpt:22}, ...rows.map(() => ({hpt:62}))];
+  ws["!autofilter"] = {ref: XLSX.utils.encode_range({s:{r:0,c:0}, e:{r:rows.length, c:13}})};
+  const wb = XLSX.utils.book_new(); XLSX.utils.book_append_sheet(wb, ws, "Produtos");
+  XLSX.writeFile(wb, fname + ".xlsx");
+};
+
+/* eventos */
+let qT; $("q").addEventListener("input", e => { clearTimeout(qT); qT = setTimeout(()=>{ state.q = e.target.value; render(); }, 150); });
+$("filters").addEventListener("change", e => {
+  const t = e.target;
+  if(t.dataset.f){ const set = state[t.dataset.f]; t.checked ? set.add(t.value) : set.delete(t.value); }
+  if(t.id==="sort"){ state.sort = t.value; tableSort = null; }
+  if(t.id==="hasPrice") state.hasPrice = t.checked;
+  if(t.id==="onlyBest") state.onlyBest = t.checked;
+  if(t.name==="mult") state.mult = t.value;
+  render();
+});
+const num = v => { const n = parseFloat(String(v).replace(",",".")); return isNaN(n) ? null : n; };
+["pmin","pmax"].forEach(id => $(id).addEventListener("input", e => { state[id] = num(e.target.value); render(); }));
+$("clear").onclick = () => { Object.assign(state,{q:"",pmin:null,pmax:null,hasPrice:false,onlyBest:false,mult:"all"}); state.sites.clear(); state.cats.clear();
+  $("q").value=""; $("pmin").value=""; $("pmax").value=""; $("hasPrice").checked=false; $("onlyBest").checked=false;
+  document.querySelector('input[name=mult][value=all]').checked=true; buildFilters(); render(); };
+document.querySelector(".views").addEventListener("click", e => {
+  const b = e.target.closest("button"); if(!b) return; view = b.dataset.view;
+  document.querySelectorAll(".views button").forEach(x => x.setAttribute("aria-pressed", x===b)); render();
+});
+$("out").addEventListener("click", e => {
+  const th = e.target.closest("th[data-k]");
+  if(th){ const k = th.dataset.k; tableSort = {key:k, dir: tableSort && tableSort.key===k ? -tableSort.dir : 1}; render(); }
+  const m = e.target.closest("[data-more]");
+  if(m){ m.parentElement.querySelectorAll("[data-extra]").forEach(x=>x.hidden=false); m.remove(); }
+});
+$("openFilters").onclick = () => $("filters").classList.add("open");
+$("closeFilters").onclick = () => $("filters").classList.remove("open");
+
+load();
+setInterval(load, 10 * 60 * 1000); // recarrega os dados a cada 10 min se a página ficar aberta
+</script>
+</body>
+</html>

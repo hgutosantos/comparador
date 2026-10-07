@@ -1,0 +1,54 @@
+# Categoria unificada: a 1ª regra que casar com "nome + categoria do site" vence.
+categories:
+  - {name: "IA", match: "chat ?gpt|gpt|gemini|claude|grok|perplexity|lovable|manus|kling|veo ?3|heygen|elevenlabs|midjourney|leonardo|runway|copilot|codex|\\bia\\b|\\bai\\b|i\\.a\\b|intelig[eê]ncia artificial|cursor"}
+  - {name: "Streaming", match: "netflix|disney|hbo|prime video|amazon prime|paramount|globo ?play|crunchyroll|apple tv|spotify|youtube|deezer|claro tv|sky\\+|premiere fc|streaming"}
+  - {name: "Edição e design", match: "canva|capcut|adobe|photoshop|premiere pro|figma|filmora|davinci|edi[cç][aã]o|envato|freepik|photoroom"}
+  - {name: "Jogos", match: "steam|\\bkeys?\\b|xbox|game ?pass|playstation|psn|roblox|robux|valorant|league of legends|\\blol\\b|fortnite|free ?fire|genshin|minecraft|jogo|gold|skin"}
+  - {name: "Produtividade", match: "office|microsoft|notion|grammarly|duolingo|linkedin|coursera|vpn|windows|pdf"}
+  - {name: "Marketing", match: "seguidores|curtidas|views|proxy|\\bbms?\\b|business manager|disparo|whats ?app|tiktok|instagram|facebook|\\bads\\b"}
+  - {name: "Contas e e-mails", match: "gmail|hotmail|outlook|e-?mail|conta"}
+  - {name: "Cursos e métodos", match: "curso|m[eé]todo|mentoria|pack|guia|ebook"}
+
+# Agrupamento para comparar o "mesmo produto" entre sites.
+# A 1ª regra que casar com o nome define o grupo. Adicione os que quiser.
+groups:
+  - {name: "ChatGPT Plus", match: "gpt.*plus"}
+  - {name: "ChatGPT Go", match: "gpt.*\\bgo\\b|plano go"}
+  - {name: "ChatGPT Pro", match: "gpt.*\\bpro\\b"}
+  - {name: "Gemini / Google AI Pro", match: "gemini|google ai pro"}
+  - {name: "Claude", match: "claude"}
+  - {name: "Super Grok", match: "grok"}
+  - {name: "Perplexity Pro", match: "perplexity"}
+  - {name: "Lovable", match: "lovable"}
+  - {name: "Netflix", match: "netflix"}
+  - {name: "Disney+", match: "disney"}
+  - {name: "HBO Max", match: "hbo"}
+  - {name: "Prime Video", match: "prime video|amazon prime"}
+  - {name: "Paramount+", match: "paramount"}
+  - {name: "Globoplay", match: "globo ?play"}
+  - {name: "Crunchyroll", match: "crunchyroll"}
+  - {name: "Spotify Premium", match: "spotify"}
+  - {name: "YouTube Premium", match: "youtube"}
+  - {name: "Canva Pro", match: "canva"}
+  - {name: "CapCut Pro", match: "capcut"}
+  - {name: "Xbox Game Pass", match: "game ?pass"}
+  - {name: "Duolingo", match: "duolingo"}
+  - {name: "Office 365", match: "office|microsoft 365"}
+  - {name: "NordVPN", match: "nord ?vpn"}
+  - {name: "Apple TV+", match: "apple ?tv"}
+  - {name: "Claro TV+", match: "claro ?tv"}
+  - {name: "Premiere", match: "premiere fc|\\bpremiere\\b(?! pro)"}
+  - {name: "Adobe", match: "adobe|photoshop|illustrator|after effects|premiere pro|acrobat"}
+  - {name: "Figma", match: "figma"}
+  - {name: "Notion", match: "notion"}
+  - {name: "Manus", match: "manus"}
+  - {name: "Kling AI", match: "kling"}
+  - {name: "HeyGen", match: "heygen"}
+  - {name: "ElevenLabs", match: "elevenlabs|eleven labs"}
+  - {name: "Brasil Paralelo", match: "brasil paralelo"}
+  - {name: "LinkedIn Premium", match: "linkedin"}
+  - {name: "Windows", match: "windows"}
+  - {name: "Proxy", match: "\\bprox(y|ys|ies)\\b"}
+
+# Itens que NÃO entram no índice (trechos do nome ou da categoria). Vazio = traz tudo.
+exclude: []
