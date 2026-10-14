@@ -23,6 +23,8 @@ from .extract import popularity_signals, scrape_site
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "data" / "products.json"
 CAPT = ROOT / "capturas"
+# nome de exibição para capturas manuais (o botão grava o domínio do site)
+CAPTURE_NAMES = {"ggmax.com.br": "GGMAX", "blackwater.com.br": "Blackwater"}
 TZ = dt.timezone(dt.timedelta(hours=-3))  # horário de Brasília
 
 
@@ -159,6 +161,7 @@ def load_captures(stamp_now, cats, groups, max_age_days):
         except Exception as e:
             log(f"  ! captura ignorada {f.name}: {e}")
             continue
+        cap["site"] = CAPTURE_NAMES.get(cap["site"].lower().removeprefix("www."), cap["site"])
         key = (cap["site"], cap["page_url"])
         if key not in latest or when > latest[key][0]:
             latest[key] = (when, cap)
