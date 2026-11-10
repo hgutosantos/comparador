@@ -1,6 +1,6 @@
 sites:
   - name: Lupax
-    enabled: true
+    enabled: false
     start_urls: ["https://lupax.site/"]
     product_link_regex: "/package/"
     crawl_regex: "/category/"
@@ -8,7 +8,7 @@ sites:
     detail_fetch: missing
 
   - name: Pluffy
-    enabled: true
+    enabled: false
     start_urls: ["https://pluffy.site/"]
     product_link_regex: "/package/"
     crawl_regex: "/category/"
