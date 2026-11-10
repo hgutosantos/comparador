@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "data" / "products.json"
 CAPT = ROOT / "capturas"
 # nome de exibição para capturas manuais (o botão grava o domínio do site)
-CAPTURE_NAMES = {"ggmax.com.br": "GGMAX", "blackwater.com.br": "Blackwater"}
+CAPTURE_NAMES = {"ggmax.com.br": "GGMAX", "blackwater.com.br": "Blackwater", "lupax.site": "Lupax", "pluffy.site": "Pluffy"}
 TZ = dt.timezone(dt.timedelta(hours=-3))  # horário de Brasília
 
 
