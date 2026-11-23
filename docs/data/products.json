@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:24:52-03:00",
+ "generated_at": "2026-11-22T21:10:01-03:00",
  "sites": [
   {
    "name": "Geniuz Hints",
@@ -13,9 +13,9 @@
    "name": "Basefy",
    "url": "https://basefy.io/",
    "status": "ok",
-   "count": 293,
+   "count": 365,
    "excluded": 0,
-   "last_ok": "2026-11-22T15:24:52-03:00"
+   "last_ok": "2026-11-22T21:10:01-03:00"
   }
  ],
  "products": [
@@ -30,12 +30,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 77.1,
+   "popularity": 78.7,
    "highlights": [],
    "link": "https://basefy.io/p/1-conta-twitter-x-nova-alta-qualidade-brinde",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F19403&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "7be36d29468a",
@@ -48,12 +48,12 @@
    "duration": "",
    "price": 4.0,
    "list_price": null,
-   "popularity": 94.4,
+   "popularity": 94.2,
    "highlights": [],
    "link": "https://basefy.io/p/12x-contas-email-outlook-hotmail-novo-nao-precisa-de-sms",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6912&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "83517e038972",
@@ -66,12 +66,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 41.4,
+   "popularity": 34.6,
    "highlights": [],
    "link": "https://basefy.io/p/bolt-new-pro-1-mes-conta-pronta-com-10m-tokens",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45201&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "efea15ae62db",
@@ -84,12 +84,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 35.1,
+   "popularity": 27.7,
    "highlights": [],
    "link": "https://basefy.io/p/conta-de-efootball",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45253&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e520325cd1f1",
@@ -107,7 +107,7 @@
    "link": "https://basefy.io/p/conta-hotmail-antigo",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F3196&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b7b584f95c12",
@@ -120,12 +120,12 @@
    "duration": "",
    "price": 4.9,
    "list_price": null,
-   "popularity": 49.7,
+   "popularity": 50.3,
    "highlights": [],
    "link": "https://basefy.io/p/contas-de-gmail-antigas-e-novas-nao-pede-sms-alta-qualidade-top-1-das-contas",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F34275&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "85ecc3be2472",
@@ -138,12 +138,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 76.9,
+   "popularity": 78.5,
    "highlights": [],
    "link": "https://basefy.io/p/contas-discord-virgem-30-dias-de-criacao-entrega-imediata-brinde-exclusivo",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14397&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "868cdaecca00",
@@ -156,12 +156,30 @@
    "duration": "",
    "price": 24.9,
    "list_price": null,
-   "popularity": 1259.9,
+   "popularity": 1263.1,
    "highlights": [],
    "link": "https://basefy.io/p/e-mail-edu-academico-conta-com-login-e-senha",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25379&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "97ab9e5562db",
+   "name": "GIFT CARD UBER | CÓDIGO DIGITAL BRASIL | SALDO NA CONTA UBER",
+   "category": "Contas e e-mails",
+   "site_category": "Outros",
+   "group": "",
+   "match_key": "gift card uber codigo digital brasil saldo na conta uber",
+   "match_label": "GIFT CARD UBER | CÓDIGO DIGITAL BRASIL | SALDO NA CONTA UBER",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 48.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/gift-card-uber-codigo-digital-brasil-saldo-na-conta-uber",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F34230&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a9a2e8493b4b",
@@ -174,12 +192,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 124.7,
+   "popularity": 118.5,
    "highlights": [],
    "link": "https://basefy.io/p/gmail-antigo-2010-2022-conta-aleatoria-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44865&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b9f3959a45ea",
@@ -192,12 +210,12 @@
    "duration": "",
    "price": 14.9,
    "list_price": null,
-   "popularity": 1260.0,
+   "popularity": 1263.2,
    "highlights": [],
    "link": "https://basefy.io/p/gmail-antigo-2010-2022-conta-aleatoria",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25444&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6f11f26d657a",
@@ -210,12 +228,12 @@
    "duration": "",
    "price": 12.6,
    "list_price": null,
-   "popularity": 749.8,
+   "popularity": 768.6,
    "highlights": [],
    "link": "https://basefy.io/p/gmail-google-workspace-brasil",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F31366&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "39d2e728fcea",
@@ -228,12 +246,12 @@
    "duration": "",
    "price": 3.0,
    "list_price": null,
-   "popularity": 58.2,
+   "popularity": 58.4,
    "highlights": [],
    "link": "https://basefy.io/p/gmail-google-conta-aleatoria",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22525&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e58a09d82808",
@@ -251,7 +269,7 @@
    "link": "https://basefy.io/p/google-gmail-antigos-e-novos-ultron",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F2126&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "66ee862ce4fc",
@@ -271,7 +289,25 @@
    "link": "https://basefy.io/p/outlook-mail-1-conta-uso-exclusivo",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fzohumyfxfhyzwjzxjdzi.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-images%2F2026-09-14%2F8a4ce05c-2909-4429-a82b-3a1143c6714c.png&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "9a6f5d1f70e9",
+   "name": "Replit Core conta pronta | 30 dias",
+   "category": "Contas e e-mails",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "replit core conta pronta|30",
+   "match_label": "Replit Core conta pronta | 30 dias",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 44.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/replit-core-conta-pronta-30-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45611&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "7c50eeb981af",
@@ -284,12 +320,32 @@
    "duration": "",
    "price": 445.2,
    "list_price": null,
-   "popularity": 749.7,
+   "popularity": 768.5,
    "highlights": [],
    "link": "https://basefy.io/p/resend-pro",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fzohumyfxfhyzwjzxjdzi.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-images%2F2026-10-27%2Fe5359d1b-b89b-41f9-9324-7ab44f29ea14.webp&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "18c17fb65f13",
+   "name": "Supabase Pro - 12 Meses | Ativação na sua Conta",
+   "category": "Contas e e-mails",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "supabase pro ativacao|360",
+   "match_label": "Supabase Pro - 12 Meses | Ativação na sua Conta",
+   "duration": "1 ano",
+   "price": 379.9,
+   "list_price": null,
+   "popularity": 200.1,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/supabase-pro-12-meses-ativacao-na-sua-conta-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45634&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6c440c6abc16",
@@ -302,12 +358,12 @@
    "duration": "7 dias",
    "price": null,
    "list_price": null,
-   "popularity": 41.6,
+   "popularity": 34.8,
    "highlights": [],
    "link": "https://basefy.io/p/zoom-pro-conta-pronta-7-dias-a-12-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45212&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "eba36415c7b5",
@@ -320,12 +376,48 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 400.8,
+   "popularity": 404.8,
    "highlights": [],
    "link": "https://basefy.io/p/outlook-conta-virgem-receba-na-hora",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18512&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "5f06761028a6",
+   "name": "+ 10k de cursos",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "+ 10k cursos",
+   "match_label": "+ 10k de cursos",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 44.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/10k-de-cursos",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45583&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "a8e50674fa90",
+   "name": "[Black Friday] Pack +15Mil Cortes para Monetizar! (Gta 6 Novidade)",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "black friday pack +15mil cortes monetizar gta 6 novidade",
+   "match_label": "[Black Friday] Pack +15Mil Cortes para Monetizar! (Gta 6 Novidade)",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 32.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/black-friday-pack-15mil-cortes-para-monetizar-gta-6-novidade",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44800&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4fcafcc40d87",
@@ -343,7 +435,25 @@
    "link": "https://basefy.io/p/acervo-do-black-cursos-metodos-e-ferramentas-secretas",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F5366&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "b4b57ec383e4",
+   "name": "CURSOS DE BLACK MARKETING (PACK COMPLETO)",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "cursos black marketing pack completo",
+   "match_label": "CURSOS DE BLACK MARKETING (PACK COMPLETO)",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.7,
+   "highlights": [],
+   "link": "https://basefy.io/p/cursos-de-black-marketing-pack-completo",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45321&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "bdcf08558f92",
@@ -356,30 +466,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 54.5,
+   "popularity": 47.1,
    "highlights": [],
    "link": "https://basefy.io/p/gta-6-artwork-wallpapers-4k-pack-editavel-premium",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44529&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "cee5bea64885",
-   "name": "GTA 6 Creator Pack | Kit Completo para Criadores de Conteúdo GTA VI",
-   "category": "Cursos e métodos",
-   "site_category": "Explorar produtos",
-   "group": "",
-   "match_key": "gta 6 creator pack kit completo criadores conteudo gta vi",
-   "match_label": "GTA 6 Creator Pack | Kit Completo para Criadores de Conteúdo GTA VI",
-   "duration": "",
-   "price": null,
-   "list_price": null,
-   "popularity": 51.9,
-   "highlights": [],
-   "link": "https://basefy.io/p/gta-6-creator-pack-kit-completo-para-criadores-de-conteudo-gta-vi",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44390&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2e67b5a731db",
@@ -392,12 +484,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 1258.8,
+   "popularity": 1262.0,
    "highlights": [],
    "link": "https://basefy.io/p/hot-academy-mr-hot-curso-completo-18",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6735&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a3ad47cd7ff2",
@@ -415,25 +507,7 @@
    "link": "https://basefy.io/p/mentoria-de-como-farma-bm250-bm2k-e-verificar",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F3083&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "84f5cf6f6a47",
-   "name": "MÉTODO XCLOUD — JOGUE SEM LIMITES!",
-   "category": "Cursos e métodos",
-   "site_category": "Outros",
-   "group": "",
-   "match_key": "metodo xcloud jogue sem limites",
-   "match_label": "MÉTODO XCLOUD — JOGUE SEM LIMITES!",
-   "duration": "",
-   "price": null,
-   "list_price": null,
-   "popularity": 400.6,
-   "highlights": [],
-   "link": "https://basefy.io/p/metodo-xcloud-jogue-sem-limites",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22832&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a2daf8e5090c",
@@ -453,7 +527,7 @@
    "link": "https://basefy.io/p/pack-20-mil-videos-virais-2-mil-videos-de-frutas-falantes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F5426&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "134d228bccdc",
@@ -466,12 +540,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 32.4,
+   "popularity": 24.8,
    "highlights": [],
    "link": "https://basefy.io/p/pack-95-filmes-nacionais-cinema-brasileiro",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44462&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b9513d0c067f",
@@ -484,12 +558,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 125.3,
+   "popularity": 119.4,
    "highlights": [],
    "link": "https://basefy.io/p/pack-completo-18-34-estrategias-trafego-audios-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44993&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "45112309dfb6",
@@ -507,7 +581,7 @@
    "link": "https://basefy.io/p/pack-completo-18-34-estrategias-trafego-audios",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7417&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f8d7f661c905",
@@ -520,12 +594,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.0,
+   "popularity": 31.9,
    "highlights": [],
    "link": "https://basefy.io/p/pack-cortes-virais-de-produtos-shopee-videos-para-afiliados-e-achadinhos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44822&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "40707b5532f8",
@@ -543,7 +617,7 @@
    "link": "https://basefy.io/p/pack-de-videos-infantis-em-4k-compre-e-receba-na-hora",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F16855&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b81a82295d29",
@@ -556,12 +630,68 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 54.4,
+   "popularity": 47.0,
    "highlights": [],
    "link": "https://basefy.io/p/pack-gta-vi-60-roteiros-prontos-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44526&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "4aba5af1502b",
+   "name": "PACK SAAS E SISTEMAS + SITECLONER | 30 SISTEMAS E FERRAMENTAS DIGITAIS",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "pack saas sistemas + sitecloner 30 sistemas ferramentas digitais",
+   "match_label": "PACK SAAS E SISTEMAS + SITECLONER | 30 SISTEMAS E FERRAMENTAS DIGITAIS",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 47.5,
+   "highlights": [],
+   "link": "https://basefy.io/p/pack-saas-e-sistemas-sitecloner-30-sistemas-e-ferramentas-digitais",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45323&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "70a7a9b481a4",
+   "name": "Por Onde Começar a Programar? Guia Completo para Iniciantes Descobrirem Seu Caminho na Tecnologia",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "onde comecar programar guia completo iniciantes descobrirem seu caminho na tecnologia",
+   "match_label": "Por Onde Começar a Programar? Guia Completo para Iniciantes Descobrirem Seu Caminho na Tecnologia",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 43.7,
+   "highlights": [],
+   "link": "https://basefy.io/p/por-onde-comecar-a-programar-guia-completo-para-iniciantes-descobrirem-seu-caminho-na-tecnologia",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45585&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "343ac9f7ff90",
+   "name": "ULTRA PACK 5.000 METODOS",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "ultra pack 5 000 metodos",
+   "match_label": "ULTRA PACK 5.000 METODOS",
+   "duration": "",
+   "price": 3.5,
+   "list_price": null,
+   "popularity": 200.0,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/ultra-pack-5-000-metodos",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45630&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "41d0b6d84533",
@@ -579,7 +709,7 @@
    "link": "https://basefy.io/p/packgrupos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8489&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b20703dfdccc",
@@ -597,7 +727,7 @@
    "link": "https://basefy.io/p/pack-videos-virais-de-frutas-falantes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F10846&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ac059c347e5c",
@@ -615,7 +745,7 @@
    "link": "https://basefy.io/p/packviral",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6591&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "77ffbcd64fa0",
@@ -628,12 +758,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 37.5,
+   "popularity": 30.1,
    "highlights": [],
    "link": "https://basefy.io/p/pack-cortes-virais-2026-atualizado-os-melhores-cortes-de-videos-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44723&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "841697c070fb",
+   "name": "💰 MENTORIA OURO DIGITAL",
+   "category": "Cursos e métodos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "mentoria ouro digital",
+   "match_label": "💰 MENTORIA OURO DIGITAL",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 42.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/mentoria-ouro-digital",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45659&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b5c766f5cd44",
@@ -651,7 +799,7 @@
    "link": "https://basefy.io/p/metodo-como-tirar-cadeado-do-portifolio-empresarial",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F4800&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0b17ba109066",
@@ -669,25 +817,43 @@
    "link": "https://basefy.io/p/packhot",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8477&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
-   "id": "8f307d036bf4",
-   "name": "Canva Edu na sua conta | 1 ano",
-   "category": "Edição e design",
+   "id": "8e678273919d",
+   "name": "🚀🔥 SUPER PACK DE 5.000 A 50.000 PROMPTS PARA INTELIGÊNCIAS ARTIFICIAIS [ENTREGA AUTOMÁTICA]",
+   "category": "Cursos e métodos",
    "site_category": "Explorar produtos",
-   "group": "Canva Pro",
-   "match_key": "Canva Pro|360",
-   "match_label": "Canva Pro (1 ano)",
-   "duration": "1 ano",
+   "group": "",
+   "match_key": "super pack 5 000 50 000 prompts inteligencias artificiais",
+   "match_label": "🚀🔥 SUPER PACK DE 5.000 A 50.000 PROMPTS PARA INTELIGÊNCIAS ARTIFICIAIS [ENTREGA AUTOMÁTICA]",
+   "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 43.3,
+   "popularity": 40.1,
    "highlights": [],
-   "link": "https://basefy.io/p/canva-edu-na-sua-conta-1-ano",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45231&w=256&q=75",
+   "link": "https://basefy.io/p/super-pack-de-5-000-a-50-000-prompts-para-inteligencias-artificiais-entrega-automatica",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45384&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "6a31d7577c68",
+   "name": "Adobe Creative Cloud All Apps | 7 ou 30 dias",
+   "category": "Edição e design",
+   "site_category": "Explorar produtos",
+   "group": "Adobe",
+   "match_key": "Adobe|30",
+   "match_label": "Adobe (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 44.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/adobe-creative-cloud-all-apps-7-ou-30-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45612&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "821e1b5cf0f9",
@@ -707,7 +873,7 @@
    "link": "https://basefy.io/p/canva-edu-pro-1-ano",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25436&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "33f17d18a502",
@@ -725,7 +891,7 @@
    "link": "https://basefy.io/p/canva-no-seu-e-mail-receba-na-hora",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18515&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f744627e2a36",
@@ -745,7 +911,7 @@
    "link": "https://basefy.io/p/canva-pro-1-mes-promocao",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18543&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0480d6439db9",
@@ -758,12 +924,12 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 42.1,
+   "popularity": 35.3,
    "highlights": [],
    "link": "https://basefy.io/p/canva-pro-conta-pronta-1-ano-e-3-anos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45219&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e86535e99c29",
@@ -776,30 +942,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 43.4,
+   "popularity": 36.0,
    "highlights": [],
    "link": "https://basefy.io/p/canva-pro-link-de-ativacao-1-mes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45232&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "f0a33389a9d1",
-   "name": "Canva Pro na sua conta | 1 mês a 3 anos",
-   "category": "Edição e design",
-   "site_category": "Explorar produtos",
-   "group": "Canva Pro",
-   "match_key": "Canva Pro|30",
-   "match_label": "Canva Pro (1 mês)",
-   "duration": "1 mês",
-   "price": null,
-   "list_price": null,
-   "popularity": 42.2,
-   "highlights": [],
-   "link": "https://basefy.io/p/canva-pro-na-sua-conta-1-mes-a-3-anos",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45220&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "99230de24c36",
@@ -812,12 +960,30 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 40.0,
+   "popularity": 33.8,
    "highlights": [],
    "link": "https://basefy.io/p/canva-pro-1-ou-12-meses-ativacao-no-seu-e-mail",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45086&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "ab48982abd98",
+   "name": "CANVA PRO – 6 MESES",
+   "category": "Edição e design",
+   "site_category": "Explorar produtos",
+   "group": "Canva Pro",
+   "match_key": "Canva Pro|180",
+   "match_label": "Canva Pro (6 meses)",
+   "duration": "6 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 44.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/canva-pro-6-meses-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45575&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "77b3cab6b040",
@@ -835,7 +1001,7 @@
    "link": "https://basefy.io/p/canva-pro-1-ano-recursos-premium",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25493&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "696b0de4fc2f",
@@ -848,12 +1014,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 121.3,
+   "popularity": 114.5,
    "highlights": [],
    "link": "https://basefy.io/p/capcut-pro-1-mes-garantia-completa-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44611&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "42330453a83d",
@@ -866,12 +1032,32 @@
    "duration": "7 dias",
    "price": null,
    "list_price": null,
-   "popularity": 41.9,
+   "popularity": 35.1,
    "highlights": [],
    "link": "https://basefy.io/p/capcut-pro-conta-pronta-7-dias-a-6-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45217&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "b9ef79e1fbf1",
+   "name": "CapCut Pro Team - 30 Dias | Conta Privada | Até 2 Dispositivos",
+   "category": "Edição e design",
+   "site_category": "Explorar produtos",
+   "group": "CapCut Pro",
+   "match_key": "CapCut Pro|30",
+   "match_label": "CapCut Pro (1 mês)",
+   "duration": "1 mês",
+   "price": 19.9,
+   "list_price": null,
+   "popularity": 200.6,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/capcut-pro-team-30-dias-conta-privada-ate-2-dispositivos-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45661&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c89c59f72474",
@@ -884,12 +1070,12 @@
    "duration": "7 dias",
    "price": null,
    "list_price": null,
-   "popularity": 42.0,
+   "popularity": 35.2,
    "highlights": [],
    "link": "https://basefy.io/p/capcut-pro-team-conta-pronta-7-dias-e-1-mes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45218&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "138b6248d9ed",
@@ -902,12 +1088,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 124.8,
+   "popularity": 118.6,
    "highlights": [],
    "link": "https://basefy.io/p/capcut-pro-teams-30-dias",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44874&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ce59697a1654",
@@ -927,7 +1113,7 @@
    "link": "https://basefy.io/p/capcut-pro-7-dias-garantia-completa",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25418&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "915470c6a9e1",
@@ -945,7 +1131,7 @@
    "link": "https://basefy.io/p/capcut-pro-1-mes-garantia-completa",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25419&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "33b19ddedd50",
@@ -963,7 +1149,7 @@
    "link": "https://basefy.io/p/pacote-adobe-ativado-vitalicio",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8486&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "34b7f9f80f11",
@@ -983,7 +1169,7 @@
    "link": "https://basefy.io/p/capcut-pro-30-dias",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18385&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e96d34b62c23",
@@ -1003,7 +1189,7 @@
    "link": "https://basefy.io/p/canvapro",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F620&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "58458a5d6b90",
@@ -1023,7 +1209,7 @@
    "link": "https://basefy.io/p/capcut-pro-canva-pro-individual",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8493&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c3454b217b24",
@@ -1036,12 +1222,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 34.7,
+   "popularity": 27.1,
    "highlights": [],
    "link": "https://basefy.io/p/canva-packs-completos-de-300-mil-conteudos-premium-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44564&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "0437d7fe3e6a",
+   "name": "5 MILHÕES DE TOKENS PARA CLAUDE / GPT E MAIS (BLACK WEEK) PROMOÇÃO",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Claude",
+   "match_key": "Claude",
+   "match_label": "Claude",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 51.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/5-milhoes-de-tokens-para-claude-gpt-e-mais-black-week-promocao",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45425&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "22f6c77eba5b",
@@ -1054,12 +1258,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 34.9,
+   "popularity": 27.4,
    "highlights": [],
    "link": "https://basefy.io/p/acesso-a-ia-que-gera-videos-para-plataforma-de-venda",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44655&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "abc3fbd923db",
@@ -1079,7 +1283,7 @@
    "link": "https://basefy.io/p/api-claude-1-dia-10m-a-100m-creditos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28245&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8bad8720ba71",
@@ -1092,12 +1296,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 43.1,
+   "popularity": 35.8,
    "highlights": [],
    "link": "https://basefy.io/p/api-gemini-creditos-us-10-a-us-200-1-mes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45229&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "bd050663ba77",
@@ -1117,7 +1321,7 @@
    "link": "https://basefy.io/p/black-do-lek-o-melhor-do-mercado-brinde-ideias-ousadas-estrategias-e-automacao-com-ia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8996&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cd04baa33892",
@@ -1130,12 +1334,12 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 126.6,
+   "popularity": 120.6,
    "highlights": [],
    "link": "https://basefy.io/p/capcut-pro-team-3-meses-ate-2-000-creditos-ia-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45139&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "326ac8e06a47",
@@ -1148,12 +1352,12 @@
    "duration": "7 dias",
    "price": null,
    "list_price": null,
-   "popularity": 35.5,
+   "popularity": 28.1,
    "highlights": [],
    "link": "https://basefy.io/p/capcut-pro-7-days-1-12-months-ready-account-ai-credits",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45120&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "dd0bca6f8f0a",
@@ -1173,7 +1377,7 @@
    "link": "https://basefy.io/p/chat-gpt-go-30-dias-privado",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7186&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1cf2e882179b",
@@ -1186,12 +1390,12 @@
    "duration": "6 meses",
    "price": null,
    "list_price": null,
-   "popularity": 43.7,
+   "popularity": 36.7,
    "highlights": [],
    "link": "https://basefy.io/p/chat-gpt-plus-6-meses-o-melhor-preco-da-basefy",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45250&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "aac9cf183e23",
@@ -1202,16 +1406,14 @@
    "match_key": "ChatGPT Plus|30",
    "match_label": "ChatGPT Plus (1 mês)",
    "duration": "1 mês",
-   "price": 25.5,
+   "price": null,
    "list_price": null,
-   "popularity": 200.7,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 38.4,
+   "highlights": [],
    "link": "https://basefy.io/p/chat-gpt-plus-i-codex-privado-i-compartilhado-i-30-dias",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45315&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8c0ff0753c13",
@@ -1224,12 +1426,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 122.2,
+   "popularity": 115.6,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-1-mes-conta-pronta-2fa-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44684&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cd288ecfd3a0",
@@ -1242,12 +1444,30 @@
    "duration": "15 dias",
    "price": null,
    "list_price": null,
-   "popularity": 36.0,
+   "popularity": 28.7,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-15-dias-acesso-compartilhado-com-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44652&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "8617f39e01ea",
+   "name": "ChatGPT Plus 30 Dias Conta Compartilhada Poucos Usuarios",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus|30",
+   "match_label": "ChatGPT Plus (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.5,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-plus-30-dias-conta-compartilhada-poucos-usuarios",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45479&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3ce3a8369e5f",
@@ -1260,12 +1480,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 32.7,
+   "popularity": 25.3,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-30-dias-acesso-com-2fa-e-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44420&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "76afa257bbff",
@@ -1278,12 +1498,30 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 33.1,
+   "popularity": 25.7,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-30-dias-entrega-rapida-e-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44438&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "b3f958f7a50b",
+   "name": "ChatGPT Plus com Sora IA e Codex 30 Dias Compartilhado",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus|30",
+   "match_label": "ChatGPT Plus (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-plus-com-sora-ia-e-codex-30-dias-compartilhado",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45480&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "60ed210f5d4b",
@@ -1294,16 +1532,14 @@
    "match_key": "ChatGPT Plus|30",
    "match_label": "ChatGPT Plus (1 mês)",
    "duration": "1 mês",
-   "price": 7.99,
+   "price": null,
    "list_price": null,
-   "popularity": 200.1,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 37.6,
+   "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-compartilhado-30-dias-acesso-estavel-e-rapido",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45280&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "109f458affb0",
@@ -1314,16 +1550,14 @@
    "match_key": "ChatGPT Plus|30",
    "match_label": "ChatGPT Plus (1 mês)",
    "duration": "1 mês",
-   "price": 6.98,
+   "price": null,
    "list_price": null,
-   "popularity": 200.2,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 37.7,
+   "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-compartilhado-30-dias-conta-nova-poucos-acessos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45281&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "22f8e9636be5",
@@ -1334,16 +1568,50 @@
    "match_key": "ChatGPT Plus|30",
    "match_label": "ChatGPT Plus (1 mês)",
    "duration": "1 mês",
-   "price": 7.5,
+   "price": null,
    "list_price": null,
-   "popularity": 200.3,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 37.8,
+   "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-compartilhado-com-sora-ia-e-codex-30-dias-de-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45282&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "3667f93caedf",
+   "name": "ChatGPT Plus Compartilhado e ChatGPT Go na Sua Conta",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus",
+   "match_label": "ChatGPT Plus",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-plus-compartilhado-e-chatgpt-go-na-sua-conta",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45421&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "a04afe4038cd",
+   "name": "ChatGPT Plus e Pro Varios Planos Conta Compartilhada",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus",
+   "match_label": "ChatGPT Plus",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 36.5,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-plus-e-pro-varios-planos-conta-compartilhada",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45446&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "abbe1482fe1f",
@@ -1356,12 +1624,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 32.8,
+   "popularity": 25.4,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-plus-e-pro-acesso-compartilhado-com-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44425&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "ccc76228e489",
+   "name": "ChatGPT Plus Sora IA e Codex Conta Compartilhada 30 Dias",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus|30",
+   "match_label": "ChatGPT Plus (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 37.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-plus-sora-ia-e-codex-conta-compartilhada-30-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45448&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1698e2f046fb",
@@ -1381,7 +1667,25 @@
    "link": "https://basefy.io/p/chatgpt-plus-1-mes-conta-pronta-2fa",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25387&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "b30932c3a15b",
+   "name": "ChatGPT Plus — 30 Dias de Acesso Completo",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus|30",
+   "match_label": "ChatGPT Plus (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.3,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-plus-30-dias-de-acesso-completo",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45432&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "67a8da942732",
@@ -1392,16 +1696,50 @@
    "match_key": "ChatGPT Pro|15",
    "match_label": "ChatGPT Pro (15 dias)",
    "duration": "15 dias",
-   "price": 20.42,
+   "price": null,
    "list_price": null,
-   "popularity": 199.8,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 37.1,
+   "highlights": [],
    "link": "https://basefy.io/p/chatgpt-pro-astra-6-0-15-dias-conta-compartilhada-com-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45274&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "0acb598b5f87",
+   "name": "ChatGPT Pro Astra 6.0 15 Dias Imagens e Codigo Compartilhado",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Pro",
+   "match_key": "ChatGPT Pro|15",
+   "match_label": "ChatGPT Pro (15 dias)",
+   "duration": "15 dias",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-pro-astra-6-0-15-dias-imagens-e-codigo-compartilhado",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45482&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "3a848e317951",
+   "name": "ChatGPT Pro Astra 6.0 7 Dias Imagens Ilimitadas Compartilhado",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Pro",
+   "match_key": "ChatGPT Pro|7",
+   "match_label": "ChatGPT Pro (7 dias)",
+   "duration": "7 dias",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.7,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-pro-astra-6-0-7-dias-imagens-ilimitadas-compartilhado",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45481&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e1db3692c60a",
@@ -1414,12 +1752,12 @@
    "duration": "7 dias",
    "price": null,
    "list_price": null,
-   "popularity": 43.5,
+   "popularity": 36.6,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-pro-astra-6-0-acesso-compartilhado-7-dias-imagens",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45269&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "333c0eeff56e",
@@ -1432,12 +1770,30 @@
    "duration": "7 dias",
    "price": null,
    "list_price": null,
-   "popularity": 43.8,
+   "popularity": 36.9,
    "highlights": [],
    "link": "https://basefy.io/p/chatgpt-pro-astra-6-0-acesso-compartilhado-7-dias-promocao",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45272&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "039ee9ba2173",
+   "name": "ChatGPT Pro Astra 6.0 e Codex Planos Compartilhado e Privado",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Pro",
+   "match_key": "ChatGPT Pro",
+   "match_label": "ChatGPT Pro",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 37.5,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-pro-astra-6-0-e-codex-planos-compartilhado-e-privado",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45450&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a6aa6433c6d1",
@@ -1448,16 +1804,50 @@
    "match_key": "ChatGPT Pro|15",
    "match_label": "ChatGPT Pro (15 dias)",
    "duration": "15 dias",
-   "price": 17.99,
+   "price": null,
    "list_price": null,
-   "popularity": 200.0,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 37.3,
+   "highlights": [],
    "link": "https://basefy.io/p/chatgpt-pro-compartilhado-15-dias-astra-6-0-imagens-ilimitadas",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45277&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "16438f3a1055",
+   "name": "ChatGPT Pro e Plus Astra 6.0 e Codex Planos Variados",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ChatGPT Plus",
+   "match_key": "ChatGPT Plus",
+   "match_label": "ChatGPT Plus",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 37.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/chatgpt-pro-e-plus-astra-6-0-e-codex-planos-variados",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45449&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "e3173c4ecd14",
+   "name": "CLAUDE AI VIDEO EDITING MASTER PRO | 100 PÁGINAS ILUSTRADAS + 50 PROMPTS",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Claude",
+   "match_key": "Claude",
+   "match_label": "Claude",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 42.3,
+   "highlights": [],
+   "link": "https://basefy.io/p/claude-ai-video-editing-master-pro-100-paginas-ilustradas-50-prompts",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45507&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "92deaf2f7187",
@@ -1477,7 +1867,7 @@
    "link": "https://basefy.io/p/claude-api-25-milhoes-de-tokens",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fxydfessmlaghhgdkfhcz.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fstore-media%2Fd090cf05-2d96-4578-aa39-5d1283127655%2Fproducts%2Fclaude-logo-wide.png&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6ecb98d915d5",
@@ -1497,7 +1887,7 @@
    "link": "https://basefy.io/p/claude-code-fable-5-1-acesso-privado-e-individual",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F43477&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "30ddbdb68d79",
@@ -1510,12 +1900,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 122.9,
+   "popularity": 116.3,
    "highlights": [],
    "link": "https://basefy.io/p/codex-api-tokens-e-creditos-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44740&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c39ce15621d2",
@@ -1535,25 +1925,7 @@
    "link": "https://basefy.io/p/codex-api-tokens-e-creditos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25432&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "d11e3b34ab8d",
-   "name": "Conta Muse AI Pronta | 1B a 2B Tokens | Entrega Rápida",
-   "category": "IA",
-   "site_category": "Explorar produtos",
-   "group": "",
-   "match_key": "conta muse ai pronta 1b 2b tokens",
-   "match_label": "Conta Muse AI Pronta | 1B a 2B Tokens | Entrega Rápida",
-   "duration": "",
-   "price": null,
-   "list_price": null,
-   "popularity": 35.8,
-   "highlights": [],
-   "link": "https://basefy.io/p/muse-ai-account-1b-2b-tokens-ready-account-fast-delivery-copy",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45124&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9b442ad1fb1c",
@@ -1573,7 +1945,7 @@
    "link": "https://basefy.io/p/creditos-lovable-pro-entrega-na-hora",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7675&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3539c4e2874d",
@@ -1586,14 +1958,32 @@
    "duration": "",
    "price": 2.0,
    "list_price": null,
-   "popularity": 207.2,
+   "popularity": 207.1,
    "highlights": [
     "Categorias populares"
    ],
    "link": "https://basefy.io/p/creditos-lovable-via-workspace-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6860&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "940a62bb0a4c",
+   "name": "ElevenLabs Conta Privada com 10.000 Créditos de Voz IA",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "ElevenLabs",
+   "match_key": "ElevenLabs",
+   "match_label": "ElevenLabs",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.5,
+   "highlights": [],
+   "link": "https://basefy.io/p/elevenlabs-conta-privada-com-10-000-creditos-de-voz-ia",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45438&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6eb1cf4b5901",
@@ -1606,12 +1996,12 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 126.7,
+   "popularity": 120.7,
    "highlights": [],
    "link": "https://basefy.io/p/elevenlabs-creator-3-meses-conta-pronta-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45147&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6489cf6238f2",
@@ -1631,25 +2021,27 @@
    "link": "https://basefy.io/p/elevenlabs-creator-3-meses-conta-pronta",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F27423&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
-   "id": "e3a25e30b4f6",
-   "name": "Gemini + 5TB na sua conta | 1 ano",
+   "id": "6da5e5c77b31",
+   "name": "Figma EDU Pro - 1 Ano | 3.000 Créditos IA/Mês",
    "category": "IA",
    "site_category": "Explorar produtos",
-   "group": "Gemini / Google AI Pro",
-   "match_key": "Gemini / Google AI Pro|360",
-   "match_label": "Gemini / Google AI Pro (1 ano)",
+   "group": "Figma",
+   "match_key": "Figma|360",
+   "match_label": "Figma (1 ano)",
    "duration": "1 ano",
-   "price": null,
+   "price": 44.9,
    "list_price": null,
-   "popularity": 42.9,
-   "highlights": [],
-   "link": "https://basefy.io/p/gemini-5tb-na-sua-conta-1-ano",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45227&w=256&q=75",
+   "popularity": 200.9,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/figma-edu-pro-1-ano-3-000-creditos-ia-mes-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45733&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b8b7ffce88ab",
@@ -1667,7 +2059,7 @@
    "link": "https://basefy.io/p/gemini-4-pro-plus-1k-creditos-flow-antigravity-5-tb-veo3-nano-banana-privado-no-seu-email",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23841&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "eeabf882a3e7",
@@ -1680,12 +2072,12 @@
    "duration": "18 meses",
    "price": null,
    "list_price": null,
-   "popularity": 119.6,
+   "popularity": 112.8,
    "highlights": [],
    "link": "https://basefy.io/p/gemini-ai-plus-e-pro-3-6-12-e-18-meses-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44467&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b1969e853059",
@@ -1705,25 +2097,7 @@
    "link": "https://basefy.io/p/gemini-ai-plus-pro-3-6-12-e-18-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25395&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "52392f3ddc81",
-   "name": "Gemini Ia Plus - 1 Mês | 400Gb Cloud+ 250 Credito Flow Privado",
-   "category": "IA",
-   "site_category": "Explorar produtos",
-   "group": "Gemini / Google AI Pro",
-   "match_key": "Gemini / Google AI Pro|30",
-   "match_label": "Gemini / Google AI Pro (1 mês)",
-   "duration": "1 mês",
-   "price": null,
-   "list_price": null,
-   "popularity": 38.0,
-   "highlights": [],
-   "link": "https://basefy.io/p/gemini-ia-plus-1-mes-400gb-cloud-250-credito-flow-privado",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44386&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4564de9b5f3d",
@@ -1736,34 +2110,16 @@
    "duration": "6 meses",
    "price": null,
    "list_price": null,
-   "popularity": 42.6,
+   "popularity": 35.5,
    "highlights": [],
    "link": "https://basefy.io/p/gemini-plus-link-de-ativacao-6-meses-e-1-ano",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45224&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
-   "id": "0d41ce016efb",
-   "name": "Gemini Pro + YouTube na sua conta | 2 anos",
-   "category": "IA",
-   "site_category": "Explorar produtos",
-   "group": "Gemini / Google AI Pro",
-   "match_key": "Gemini / Google AI Pro|720",
-   "match_label": "Gemini / Google AI Pro (2 anos)",
-   "duration": "2 anos",
-   "price": null,
-   "list_price": null,
-   "popularity": 43.0,
-   "highlights": [],
-   "link": "https://basefy.io/p/gemini-pro-youtube-na-sua-conta-2-anos",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45228&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "7614d3ef0c97",
-   "name": "Gemini Pro conta pronta | 18 meses",
+   "id": "acd578780099",
+   "name": "Gemini Pro + 5TB na sua conta | 18 meses",
    "category": "IA",
    "site_category": "Explorar produtos",
    "group": "Gemini / Google AI Pro",
@@ -1772,12 +2128,12 @@
    "duration": "18 meses",
    "price": null,
    "list_price": null,
-   "popularity": 42.8,
+   "popularity": 35.7,
    "highlights": [],
-   "link": "https://basefy.io/p/gemini-pro-conta-pronta-18-meses",
+   "link": "https://basefy.io/p/gemini-pro-5tb-na-sua-conta-18-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45226&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "be4e2d731db7",
@@ -1790,12 +2146,12 @@
    "duration": "6 meses",
    "price": null,
    "list_price": null,
-   "popularity": 42.7,
+   "popularity": 35.6,
    "highlights": [],
    "link": "https://basefy.io/p/gemini-pro-codigo-de-ativacao-3-e-6-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45225&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6c7dc925bc75",
@@ -1808,12 +2164,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.9,
+   "popularity": 32.9,
    "highlights": [],
    "link": "https://basefy.io/p/gerador-de-prompts-pro-2-0-prompts-prontos-para-chatgpt-claude-gemini-e-mais",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44919&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "386a8424c234",
+   "name": "GOOGLE AI PRO - GEMINI ILIMITADO - 6 MESES",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Gemini / Google AI Pro",
+   "match_key": "Gemini / Google AI Pro|180",
+   "match_label": "Gemini / Google AI Pro (6 meses)",
+   "duration": "6 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 43.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/google-ai-pro-gemini-ilimitado-6-meses",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45508&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "7b001421f5ec",
@@ -1826,12 +2200,30 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 125.4,
+   "popularity": 119.5,
    "highlights": [],
    "link": "https://basefy.io/p/grok-plus-1-mes-conta-pronta-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45006&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "3f1a96b45ca2",
+   "name": "GROK PLUS – 6 MESES!",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Super Grok",
+   "match_key": "Super Grok|180",
+   "match_label": "Super Grok (6 meses)",
+   "duration": "6 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 44.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/grok-plus-6-meses",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45568&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "5aa03a61390c",
@@ -1851,7 +2243,7 @@
    "link": "https://basefy.io/p/grok-plus-1-mes-conta-pronta",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25439&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "fae9f5031ac6",
@@ -1864,12 +2256,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 41.8,
+   "popularity": 34.4,
    "highlights": [],
    "link": "https://basefy.io/p/grok-plus-30-dias-conta-pronta-privada-e-exclusiva",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45056&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "966171e5ecc0",
@@ -1882,12 +2274,12 @@
    "duration": "14 dias",
    "price": null,
    "list_price": null,
-   "popularity": 127.0,
+   "popularity": 121.0,
    "highlights": [],
    "link": "https://basefy.io/p/grok-premium-14-dias-conta-pronta-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45177&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c39e47cc3198",
@@ -1900,12 +2292,32 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 127.3,
+   "popularity": 121.3,
    "highlights": [],
    "link": "https://basefy.io/p/heygen-creator-1-mes-600-creditos-avatares-ia-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45200&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "19219cf314ad",
+   "name": "Higgsfield AI - 80 Créditos | 1 Mês + Garantia",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "higgsfield ai 80 creditos +|30",
+   "match_label": "Higgsfield AI - 80 Créditos | 1 Mês + Garantia",
+   "duration": "1 mês",
+   "price": 44.9,
+   "list_price": null,
+   "popularity": 200.4,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/higgsfield-ai-80-creditos-1-mes-garantia-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45651&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "adccff5d64df",
@@ -1925,7 +2337,7 @@
    "link": "https://basefy.io/p/ia-com-seu-rosto-em-tempo-real-guia-completo",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7397&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0d8f1b133940",
@@ -1938,30 +2350,32 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 119.7,
+   "popularity": 112.9,
    "highlights": [],
    "link": "https://basefy.io/p/ia-com-seu-rosto-em-tempo-real-guia-completo-5",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44474&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
-   "id": "de927c2f10d6",
-   "name": "IA DO JOB 1.0",
+   "id": "2cb4ebd828c0",
+   "name": "IA na Prática: 40 Ferramentas de Inteligência Artificial para Facilitar Seu Dia a Dia",
    "category": "IA",
    "site_category": "Explorar produtos",
    "group": "",
-   "match_key": "ia job 1 0",
-   "match_label": "IA DO JOB 1.0",
+   "match_key": "ia na pratica 40 ferramentas inteligencia artificial facilitar seu dia dia",
+   "match_label": "IA na Prática: 40 Ferramentas de Inteligência Artificial para Facilitar Seu Dia a Dia",
    "duration": "",
-   "price": null,
+   "price": 10.0,
    "list_price": null,
-   "popularity": 38.9,
-   "highlights": [],
-   "link": "https://basefy.io/p/ia-do-job-1-0",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45114&w=256&q=75",
+   "popularity": 199.8,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/ia-na-pratica-40-ferramentas-de-inteligencia-artificial-para-facilitar-seu-dia-a-dia",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45593&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e7f34bfa54fd",
@@ -1974,12 +2388,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 121.6,
+   "popularity": 114.9,
    "highlights": [],
    "link": "https://basefy.io/p/kling-ai-65-creditos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44631&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0f9da7cf70f1",
@@ -1992,12 +2406,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 122.3,
+   "popularity": 115.7,
    "highlights": [],
    "link": "https://basefy.io/p/kling-ai-standard-1-000-creditos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44698&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3d7447232863",
@@ -2015,7 +2429,7 @@
    "link": "https://basefy.io/p/kling-ai-standard-1-000-creditos-geracao-de-videos-com-ia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25438&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cde0c546e9f5",
@@ -2033,7 +2447,25 @@
    "link": "https://basefy.io/p/kling-ai-65-creditos-geracao-de-videos-com-ia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25422&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "5fbe72317678",
+   "name": "Lovable Creditos Extensao Lovablack Suporte 30 Dias",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Lovable",
+   "match_key": "Lovable|30",
+   "match_label": "Lovable (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 40.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/lovable-creditos-extensao-lovablack-suporte-30-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45472&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b0c255246a5c",
@@ -2044,16 +2476,14 @@
    "match_key": "Lovable|30",
    "match_label": "Lovable (1 mês)",
    "duration": "1 mês",
-   "price": 17.99,
+   "price": null,
    "list_price": null,
-   "popularity": 199.9,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 37.2,
+   "highlights": [],
    "link": "https://basefy.io/p/lovable-creditos-extensao-propria-lovablack-com-30-dias-de-suporte",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45275&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2a88e3fd3080",
@@ -2066,12 +2496,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 127.2,
+   "popularity": 121.2,
    "highlights": [],
    "link": "https://basefy.io/p/lovable-pro-1-mes-100-creditos-conta-privada-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45197&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "10d0618ce4e8",
@@ -2084,12 +2514,12 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 121.4,
+   "popularity": 114.6,
    "highlights": [],
    "link": "https://basefy.io/p/lovable-pro-lite-12-meses-300-creditos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44615&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "312e7ea4e951",
@@ -2109,7 +2539,7 @@
    "link": "https://basefy.io/p/lovable-pro-lite-12-meses-300-creditos-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25400&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "449eeed5f867",
@@ -2122,12 +2552,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 396.2,
+   "popularity": 392.7,
    "highlights": [],
    "link": "https://basefy.io/p/lovable-workspace",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45028&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "5347898fe9ef",
@@ -2140,12 +2570,12 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 127.7,
+   "popularity": 121.7,
    "highlights": [],
    "link": "https://basefy.io/p/manus-pro-12-meses-4-000-creditos-mensais-ativacao-na-sua-conta-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45213&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "88d08cace487",
@@ -2158,12 +2588,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 120.0,
+   "popularity": 113.2,
    "highlights": [],
    "link": "https://basefy.io/p/mega-pack-de-ferramenta-ia-produtividade-marketing-e-criacao",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44473&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "75a4a4fd37b0",
@@ -2183,7 +2613,25 @@
    "link": "https://basefy.io/p/mega-pack-de-ferramentas-ia-produtividade-marketing-e-criacao",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25411&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "ca4757eb0580",
+   "name": "Mega Pack IA | +50 Ferramentas de IA para Conteúdo, Vídeo, Design e Produtividade",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "mega pack ia +50 ferramentas ia conteudo video design produtividade",
+   "match_label": "Mega Pack IA | +50 Ferramentas de IA para Conteúdo, Vídeo, Design e Produtividade",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 33.2,
+   "highlights": [],
+   "link": "https://basefy.io/p/mega-pack-ia-50-ferramentas-de-ia-para-conteudo-video-design-e-produtividade",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44949&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ed037ed8392f",
@@ -2196,12 +2644,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 34.2,
+   "popularity": 26.6,
    "highlights": [],
    "link": "https://basefy.io/p/melhor-ia-sem-sensura-para-conteudo-hot",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44607&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "0a5c6cb5b595",
+   "name": "Melhores Agentes Lucrativos do GPT | GPTs Prontos para Conteúdo, Vendas e Negócios",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "melhores agentes lucrativos gpt gpts prontos conteudo vendas negocios",
+   "match_label": "Melhores Agentes Lucrativos do GPT | GPTs Prontos para Conteúdo, Vendas e Negócios",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 33.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/melhores-agentes-lucrativos-do-gpt-gpts-prontos-para-conteudo-vendas-e-negocios",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44946&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0d7536a5b7a6",
@@ -2221,7 +2687,7 @@
    "link": "https://basefy.io/p/mestre-dos-prompts-veo-3-o-melhor-do-mercado-brinde-prompts-para-videos-curtos-criativos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8993&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "34cb1a645dc0",
@@ -2241,7 +2707,7 @@
    "link": "https://basefy.io/p/milionario-com-i-a-do-job-conteudo-18-com-inteligencia-artificial",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7480&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ef3b084b7b43",
@@ -2254,12 +2720,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 119.5,
+   "popularity": 112.7,
    "highlights": [],
    "link": "https://basefy.io/p/muse-ai-1-bilhao-de-tokens-conta-pronta-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44593&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "eea9a325777e",
@@ -2272,12 +2738,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 121.1,
+   "popularity": 114.3,
    "highlights": [],
    "link": "https://basefy.io/p/muse-ai-31-bilhoes-de-tokens-conta-pronta-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44602&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "5af7ea1888f1",
+   "name": "Muse AI 1B - 2B Tokens | Conta Pronta | Entrega Rápida",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "muse ai 1b 2b tokens conta pronta",
+   "match_label": "Muse AI 1B - 2B Tokens | Conta Pronta | Entrega Rápida",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 28.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/muse-ai-1b-2b-tokens-ready-account-fast-delivery",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45124&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "46f80e1e17f2",
@@ -2290,12 +2774,12 @@
    "duration": "15 dias",
    "price": null,
    "list_price": null,
-   "popularity": 48.0,
+   "popularity": 41.3,
    "highlights": [],
    "link": "https://basefy.io/p/muse-ai-1-bilhao-de-tokens-15-dias",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45128&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "913a0d8015f4",
@@ -2315,7 +2799,7 @@
    "link": "https://basefy.io/p/muse-ai-1-bilhao-de-tokens-conta-pronta",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25399&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "23e8da80f555",
@@ -2328,12 +2812,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.9,
+   "popularity": 33.1,
    "highlights": [],
    "link": "https://basefy.io/p/muse-ai-1-bilhao-de-tokens-conta-pronta-4",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45170&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a93afcc1d238",
@@ -2351,9 +2835,9 @@
     "Categorias populares"
    ],
    "link": "https://basefy.io/p/muse-ai-1b-2b-ou-3b-de-tokens-conta-pronta",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F27454&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F27454&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "11f0fef5a1ac",
@@ -2373,7 +2857,7 @@
    "link": "https://basefy.io/p/muse-ai-31-bilhoes-de-tokens-conta-pronta",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25426&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "250e5b9e93b7",
@@ -2386,12 +2870,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 47.9,
+   "popularity": 41.2,
    "highlights": [],
    "link": "https://basefy.io/p/muse-ai-5-bilhoes-de-tokens-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45122&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "77c999954949",
@@ -2404,12 +2888,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 119.8,
+   "popularity": 113.0,
    "highlights": [],
    "link": "https://basefy.io/p/pack-1-800-prompts-para-chatgpt-marketing-produtividade-ia-4",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44471&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a2211ead6669",
@@ -2429,7 +2913,7 @@
    "link": "https://basefy.io/p/pack-1-800-prompts-para-chatgpt-marketing-produtividade-ia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25401&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f19b17d4a158",
@@ -2442,12 +2926,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.0,
+   "popularity": 30.8,
    "highlights": [],
    "link": "https://basefy.io/p/pack-100-prompts-secretos-ia-chatgpt-gemini-sora-claude-e-deepseek",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44665&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "bf8d8862186d",
+   "name": "PACK 50 PROMPTS — MODELOS REALISTAS COM INTELIGÊNCIA ARTIFICIAL",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "pack 50 prompts modelos realistas inteligencia artificial",
+   "match_label": "PACK 50 PROMPTS — MODELOS REALISTAS COM INTELIGÊNCIA ARTIFICIAL",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 30.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/pack-50-prompts-modelos-realistas-com-inteligencia-artificial",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45506&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3b98fbb8f30b",
@@ -2460,12 +2962,12 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 126.8,
+   "popularity": 120.8,
    "highlights": [],
    "link": "https://basefy.io/p/perplexity-pro-12-meses-codigo-de-ativacao-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45160&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "938fd833ec75",
@@ -2478,12 +2980,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 37.5,
+   "popularity": 30.4,
    "highlights": [],
    "link": "https://basefy.io/p/works-ai-image-pro-gerador-de-modelos-virtuais-com-ia-liberdade-criativa-entrega-imediata",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44841&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e339b11fe625",
@@ -2496,14 +2998,14 @@
    "duration": "",
    "price": 9.9,
    "list_price": null,
-   "popularity": 207.1,
+   "popularity": 207.2,
    "highlights": [
     "Categorias populares"
    ],
    "link": "https://basefy.io/p/confyui-ia-ilimitada-para-criar-influencers-e-cenas-com-ia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F15243&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "fa932fed4f8f",
@@ -2514,16 +3016,54 @@
    "match_key": "+225 prompts criar personagens historias ia",
    "match_label": "🎭 +225 Prompts para Criar Personagens e Histórias com IA",
    "duration": "",
-   "price": 9.9,
+   "price": null,
    "list_price": null,
-   "popularity": 200.6,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 50.1,
+   "highlights": [],
    "link": "https://basefy.io/p/225-prompts-para-criar-personagens-e-historias-com-ia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45295&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "ffaeaf58b6ad",
+   "name": "💜 Lovable Pro | 10.000 Créditos",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Lovable",
+   "match_key": "Lovable",
+   "match_label": "Lovable",
+   "duration": "",
+   "price": 869.9,
+   "list_price": null,
+   "popularity": 200.7,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/lovable-pro-10-000-creditos",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45680&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "510eb6d154ea",
+   "name": "💜 Lovable Pro | 5.000 Créditos",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Lovable",
+   "match_key": "Lovable",
+   "match_label": "Lovable",
+   "duration": "",
+   "price": 659.9,
+   "list_price": null,
+   "popularity": 200.8,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/lovable-pro-5-000-creditos",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45682&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4d083c53fbb8",
@@ -2543,7 +3083,7 @@
    "link": "https://basefy.io/p/chat-gpt-go-30-dias-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F13979&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1fbfdf4b2de9",
@@ -2556,12 +3096,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 36.1,
+   "popularity": 28.7,
    "highlights": [],
    "link": "https://basefy.io/p/destrave-a-ia-para-o-hot-3-mil-prompts-json",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44754&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "33667de5035a",
@@ -2581,7 +3121,7 @@
    "link": "https://basefy.io/p/google-ai-plus-pro-ultra-canva-de-brinde",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F33630&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cc5598a24f86",
@@ -2592,16 +3132,32 @@
    "match_key": "Gemini / Google AI Pro",
    "match_label": "Gemini / Google AI Pro",
    "duration": "",
-   "price": 89.9,
+   "price": null,
    "list_price": null,
-   "popularity": 200.8,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 39.0,
+   "highlights": [],
    "link": "https://basefy.io/p/google-ai-pro-privado-antigravity-c-gemini-3-8-1000-de-creditos-p-veo-flow-5tb",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45322&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "f959b39efc34",
+   "name": "🚀 MUSE AI — 1 BILHÃO DE TOKENS À PRONTA ENTREGA! ⚡",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "muse ai 1 bilhao tokens pronta",
+   "match_label": "🚀 MUSE AI — 1 BILHÃO DE TOKENS À PRONTA ENTREGA! ⚡",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 47.3,
+   "highlights": [],
+   "link": "https://basefy.io/p/muse-ai-1-bilhao-de-tokens-a-pronta-entrega",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45534&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "bf77b2c81c63",
@@ -2621,7 +3177,7 @@
    "link": "https://basefy.io/p/chatgpt-go-1-mes-receba-na-hora",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18506&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2eb5446a68ec",
@@ -2634,12 +3190,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.4,
+   "popularity": 32.3,
    "highlights": [],
    "link": "https://basefy.io/p/ia-do-job-criacao-de-conteudo-18-com-inteligencia-artificial",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44843&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "972194383cb5",
@@ -2659,7 +3215,25 @@
    "link": "https://basefy.io/p/muse-ai-1-bilhao-de-tokens-4",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18507&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "168e3a1c7fbc",
+   "name": "🤖🔥 CLAUDE AI PROMPTS PACK — DE 5.000 A 50.000 PROMPTS PROFISSIONAIS!",
+   "category": "IA",
+   "site_category": "Explorar produtos",
+   "group": "Claude",
+   "match_key": "Claude",
+   "match_label": "Claude",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 39.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/claude-ai-prompts-pack-de-5-000-a-50-000-prompts-profissionais",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45368&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "dd0a75cf7d57",
@@ -2675,9 +3249,9 @@
    "popularity": 53.5,
    "highlights": [],
    "link": "https://basefy.io/p/29-000-jogos-conta-steam",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23768&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23768&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c047c6126667",
@@ -2693,9 +3267,9 @@
    "popularity": 53.8,
    "highlights": [],
    "link": "https://basefy.io/p/promocao-jogos-atuais-steam-offline-modo-historia-entrega-automatica",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F9112&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F9112&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2c91e2264025",
@@ -2711,9 +3285,9 @@
    "popularity": 53.7,
    "highlights": [],
    "link": "https://basefy.io/p/conta-free-fire-lvl15-300-diamantes-troca-nick-rei-caveira",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14857&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14857&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "24efcfa91ca1",
@@ -2729,9 +3303,9 @@
    "popularity": 53.9,
    "highlights": [],
    "link": "https://basefy.io/p/conta-steam-6-000-jogos-aleatorios-para-pc-steam-offline-brinde-entrega-automatica",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28547&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28547&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2ae787cae573",
@@ -2747,9 +3321,9 @@
    "popularity": 53.4,
    "highlights": [],
    "link": "https://basefy.io/p/conta-steam-offline-com-40-jogos-triple-aaa-da-atualidade-entrega-automatica",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F11996&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F11996&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1c859788e666",
@@ -2765,9 +3339,9 @@
    "popularity": 53.6,
    "highlights": [],
    "link": "https://basefy.io/p/contas-antigas-roblox-2009-2010-2011-limiteds-raps-offsales-voice-ativo",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14856&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14856&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e6713c8e48e2",
@@ -2780,12 +3354,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 46.4,
+   "popularity": 39.0,
    "highlights": [],
    "link": "https://basefy.io/p/fortnite-contas-com-vbucks-promocao",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45251&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "435afd64011e",
@@ -2801,9 +3375,9 @@
    "popularity": 54.0,
    "highlights": [],
    "link": "https://basefy.io/p/forza-horizon-6-steam-key",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F19098&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F19098&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "5abd4f7b1842",
@@ -2821,7 +3395,7 @@
    "link": "https://basefy.io/p/free-fire-gift-cards-garena-100-a-2-180-diamantes-bonus",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25814&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "28c1f09a5b2e",
@@ -2837,9 +3411,9 @@
    "popularity": 54.1,
    "highlights": [],
    "link": "https://basefy.io/p/jogos-steam-por-apenas-r-29-90",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22053&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22053&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9f44ce6c82d4",
@@ -2855,9 +3429,29 @@
    "popularity": 53.3,
    "highlights": [],
    "link": "https://basefy.io/p/key-aleatoria",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22820&w=3840&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22820&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "95b014538963",
+   "name": "METODO ROBUX",
+   "category": "Jogos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "metodo robux",
+   "match_label": "METODO ROBUX",
+   "duration": "",
+   "price": 4.99,
+   "list_price": null,
+   "popularity": 199.9,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/metodo-robux-3",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45629&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "af7c99e2bd0d",
@@ -2870,12 +3464,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 118.4,
+   "popularity": 111.6,
    "highlights": [],
    "link": "https://basefy.io/p/minecraft-full-acesso-permanente-java-e-bedrock",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44419&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "85083ab9f310",
+   "name": "Pack completo de modelos 3d para roblox studio famosos, NÃO FUNCIONA EM STUDIO LITE.",
+   "category": "Jogos",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "pack completo modelos roblox studio famosos nao funciona em studio lite|3",
+   "match_label": "Pack completo de modelos 3d para roblox studio famosos, NÃO FUNCIONA EM STUDIO LITE.",
+   "duration": "3 dias",
+   "price": null,
+   "list_price": null,
+   "popularity": 43.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/pack-completo-de-modelos-3d-para-roblox-studio-famosos-nao-funciona-em-studio-lite",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45601&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3c9c20279c6d",
@@ -2893,7 +3505,7 @@
    "link": "https://basefy.io/p/roblox-gift-card-escolha-1-000-2-000-ou-4-500-robux",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25723&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ba878b857276",
@@ -2913,7 +3525,7 @@
    "link": "https://basefy.io/p/steam-keys-aleatorias-brinde",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F43649&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e03d657976b6",
@@ -2926,12 +3538,30 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 130.0,
+   "popularity": 123.4,
    "highlights": [],
    "link": "https://basefy.io/p/tinder-plus-gold-e-platinum-1-semana-a-12-meses-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45256&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "c42c9afa1447",
+   "name": "Xbox Game Pass Ultimate 30 Dias PC e Console Estavel",
+   "category": "Jogos",
+   "site_category": "Explorar produtos",
+   "group": "Xbox Game Pass",
+   "match_key": "Xbox Game Pass|30",
+   "match_label": "Xbox Game Pass (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.3,
+   "highlights": [],
+   "link": "https://basefy.io/p/xbox-game-pass-ultimate-30-dias-pc-e-console-estavel",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45477&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f4b0c952e540",
@@ -2944,12 +3574,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 43.9,
+   "popularity": 37.0,
    "highlights": [],
    "link": "https://basefy.io/p/xbox-game-pass-ultimate-30-dias-poucos-usuarios-pc-e-console",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45273&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "330dad0fbd55",
@@ -2962,12 +3592,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 115.5,
+   "popularity": 116.1,
    "highlights": [],
    "link": "https://basefy.io/p/1-200-grupos-de-whatsapp-divulgacao-networking-vendas-e-oportunidades",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F29022&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "801efc2da1b6",
@@ -2980,14 +3610,32 @@
    "duration": "",
    "price": 129.9,
    "list_price": null,
-   "popularity": 196.7,
+   "popularity": 196.8,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/10-bm-300-facebook",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7746&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "ec8c8272e7d4",
+   "name": "10x BM 250 DISPAROS",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "10x bm 250 disparos",
+   "match_label": "10x BM 250 DISPAROS",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 51.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/10x-bm-250-disparos",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45509&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6f1ec3f4d5bd",
@@ -3000,14 +3648,14 @@
    "duration": "50 dias",
    "price": 149.9,
    "list_price": null,
-   "popularity": 196.4,
+   "popularity": 196.5,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/10x-bm-gringas-u-50-dia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F19654&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ed68047cad21",
@@ -3020,12 +3668,32 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.3,
+   "popularity": 32.3,
    "highlights": [],
    "link": "https://basefy.io/p/menor-preco-do-site-seguidores-instagram-curtidas-views-reposts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44783&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "b21f9552efe8",
+   "name": "[Menor Preço] Contas Facebook Antigas e Novas Muito Fortes! - Entrega Imediata",
+   "category": "Marketing",
+   "site_category": "Top 10 Vendedores",
+   "group": "",
+   "match_key": "menor preco contas facebook antigas novas muito fortes",
+   "match_label": "[Menor Preço] Contas Facebook Antigas e Novas Muito Fortes! - Entrega Imediata",
+   "duration": "",
+   "price": 7.89,
+   "list_price": null,
+   "popularity": 197.5,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/menor-preco-contas-facebook-antigas-e-novas-muito-fortes-entrega-imediata",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14399&w=3840&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "078cf2160220",
@@ -3036,16 +3704,14 @@
    "match_key": "bc tiktok ads",
    "match_label": "BC TIKTOK ADS",
    "duration": "",
-   "price": 140.0,
+   "price": null,
    "list_price": null,
-   "popularity": 200.9,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 49.8,
+   "highlights": [],
    "link": "https://basefy.io/p/bc-tiktok-ads",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45468&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a0de733f1c51",
@@ -3058,14 +3724,14 @@
    "duration": "",
    "price": 150.0,
    "list_price": null,
-   "popularity": 196.5,
+   "popularity": 196.6,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/bm-1-300-gringa-fica-ilimitada",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F9671&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6bd4f0c98b7c",
@@ -3083,7 +3749,25 @@
    "link": "https://basefy.io/p/bm-250-disparos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F705&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "cc7191c96d32",
+   "name": "BM 250 DISPAROS",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "bm 250 disparos",
+   "match_label": "BM 250 DISPAROS",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 51.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/bm-250-disparos-8",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45505&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "72df6c2f07b0",
@@ -3103,7 +3787,7 @@
    "link": "https://basefy.io/p/bm-250-disparos-facebook-incluso-proxy",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23058&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f6cd770b8908",
@@ -3121,7 +3805,7 @@
    "link": "https://basefy.io/p/bm-250-disparos-template-aprovado-perfil-do-face-incluso-proxy",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F35329&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f375e892ba19",
@@ -3139,7 +3823,7 @@
    "link": "https://basefy.io/p/bm-250-disparos-4",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6485&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "805f30e4e360",
@@ -3157,7 +3841,7 @@
    "link": "https://basefy.io/p/bm-2k-disparos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23063&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8d867f548902",
@@ -3175,7 +3859,7 @@
    "link": "https://basefy.io/p/bm-2k-disparos-template-aprovado-perfil-do-face-incluso-proxy",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F22466&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "136804d6d773",
@@ -3195,7 +3879,7 @@
    "link": "https://basefy.io/p/bm-300-facebook",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6570&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "fbf5acb6632a",
@@ -3215,7 +3899,7 @@
    "link": "https://basefy.io/p/bm-300-dia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7679&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9e1717cd707b",
@@ -3228,14 +3912,14 @@
    "duration": "50 dias",
    "price": 29.9,
    "list_price": null,
-   "popularity": 196.8,
+   "popularity": 196.9,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/bm-gringa-50-dia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F15729&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1b10fb11c90b",
@@ -3255,7 +3939,67 @@
    "link": "https://basefy.io/p/bm-gringa-verificada",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7680&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "01f31267b130",
+   "name": "BM R$ 11.000 gastos - 3 contas",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "bm r 11 000 gastos 3 contas",
+   "match_label": "BM R$ 11.000 gastos - 3 contas",
+   "duration": "",
+   "price": 999.0,
+   "list_price": null,
+   "popularity": 200.3,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/bm-r-11-000-gastos-3-contas",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45650&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "346029d369db",
+   "name": "BM R$ 12.100 gastos - 3 contas",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "bm r 12 100 gastos 3 contas",
+   "match_label": "BM R$ 12.100 gastos - 3 contas",
+   "duration": "",
+   "price": 999.0,
+   "list_price": null,
+   "popularity": 200.2,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/bm-r-12-100-gastos-3-contas",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45644&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "e14039a5d1bb",
+   "name": "BM R$ 22.500 gastos - 3 contas",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "bm r 22 500 gastos 3 contas",
+   "match_label": "BM R$ 22.500 gastos - 3 contas",
+   "duration": "",
+   "price": 1300.0,
+   "list_price": null,
+   "popularity": 200.5,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/bm-r-22-500-gastos-3-contas",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45655&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f832ca2fac35",
@@ -3268,14 +4012,14 @@
    "duration": "",
    "price": 89.0,
    "list_price": null,
-   "popularity": 198.2,
+   "popularity": 198.3,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/bm-verificada-sem-imposto-de-13-fica-ilimitada",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28849&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28849&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e47fc2ce7706",
@@ -3295,7 +4039,7 @@
    "link": "https://basefy.io/p/bm-verificada-ilimitada",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7206&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9f547f017439",
@@ -3313,7 +4057,43 @@
    "link": "https://basefy.io/p/bm-verificada-whatsapp-250-conta-de-anuncio",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7587&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "ddda79d3b7f9",
+   "name": "BM Verificado Limite 2000 Mensagens - 2 Meses",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "bm verificado limite 2000 mensagens|60",
+   "match_label": "BM Verificado Limite 2000 Mensagens - 2 Meses",
+   "duration": "2 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 42.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/bm-verified-2000-message-limit-2-months-old",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45500&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "f6a0f01b7c9f",
+   "name": "BMS 250 P/ANUNCIO",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "bms 250 p anuncio",
+   "match_label": "BMS 250 P/ANUNCIO",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 39.2,
+   "highlights": [],
+   "link": "https://basefy.io/p/bms-250-p-anuncio",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45665&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "13b64ae14797",
@@ -3333,7 +4113,7 @@
    "link": "https://basefy.io/p/bms-de-250-de-disparo-de-alta-qualidade",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F3126&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "28e01afbf655",
@@ -3351,7 +4131,7 @@
    "link": "https://basefy.io/p/bms-de-2k-de-disparo-de-alta-qualidade",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6665&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4b2721cc70bf",
@@ -3369,7 +4149,7 @@
    "link": "https://basefy.io/p/bot-postador-automatico-para-grupos-do-facebook",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25540&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8582dc321dab",
@@ -3382,32 +4162,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 42.5,
+   "popularity": 35.1,
    "highlights": [],
    "link": "https://basefy.io/p/conta-whatsapp-aquecida-1-mes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45237&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "0089c532a978",
-   "name": "CONTAS FACEBOOK | 2FA Ativo | Alta Qualidade",
-   "category": "Marketing",
-   "site_category": "Top 10 Vendedores",
-   "group": "",
-   "match_key": "contas facebook 2fa ativo alta qualidade",
-   "match_label": "CONTAS FACEBOOK | 2FA Ativo | Alta Qualidade",
-   "duration": "",
-   "price": 10.99,
-   "list_price": null,
-   "popularity": 198.5,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
-   "link": "https://basefy.io/p/contas-facebook-2fa-ativo-alta-qualidade",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F3621&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "be7fae504171",
@@ -3425,7 +4185,7 @@
    "link": "https://basefy.io/p/contas-google-ads-documento-verificado-2x",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7723&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c259dee9708d",
@@ -3438,14 +4198,14 @@
    "duration": "",
    "price": 25.0,
    "list_price": null,
-   "popularity": 197.5,
+   "popularity": 197.7,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/fanpage-facebook",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F1082&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F1082&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6e9a3c9ec751",
@@ -3458,12 +4218,12 @@
    "duration": "",
    "price": 40.0,
    "list_price": null,
-   "popularity": 116.3,
+   "popularity": 117.3,
    "highlights": [],
    "link": "https://basefy.io/p/gmail-educa-gv-google-ads-unidade",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F19850&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cefb917413e4",
@@ -3476,12 +4236,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.3,
+   "popularity": 32.6,
    "highlights": [],
    "link": "https://basefy.io/p/meta-business-portfolio-verified-whatsapp-250-messaging-setup",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45399&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "255a125d4954",
+   "name": "Pack +10.000 Vídeos Religiosos e Cortes Virais Cristãos | TikTok, Reels e Shorts",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "pack +10 000 videos religiosos cortes virais cristaos tiktok reels shorts",
+   "match_label": "Pack +10.000 Vídeos Religiosos e Cortes Virais Cristãos | TikTok, Reels e Shorts",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 33.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/pack-10-000-videos-religiosos-e-cortes-virais-cristaos-tiktok-reels-e-shorts",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45552&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e4b604bd5ebb",
@@ -3494,12 +4272,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.5,
+   "popularity": 31.3,
    "highlights": [],
    "link": "https://basefy.io/p/pack-1k-videos-gta-vi-vice-city-prontos-para-tiktok-reels-e-shorts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44798&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6fcb7f0dbf97",
@@ -3512,12 +4290,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.3,
+   "popularity": 31.1,
    "highlights": [],
    "link": "https://basefy.io/p/pack-174-cortes-do-coringa-melhores-momentos-para-tiktok-reels-e-shorts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44795&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9e7747b86bd9",
@@ -3530,12 +4308,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.2,
+   "popularity": 31.0,
    "highlights": [],
    "link": "https://basefy.io/p/pack-199-cortes-de-futebol-gols-dribles-e-lances-para-tiktok-reels-e-shorts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44791&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "d90da24ee72b",
+   "name": "Pack 20 Mil Vídeos Virais + Bônus 2 Mil Vídeos de Frutas Falantes | TikTok, Kwai e Reels",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "pack 20 mil videos virais + 2 mil videos frutas falantes tiktok kwai reels",
+   "match_label": "Pack 20 Mil Vídeos Virais + Bônus 2 Mil Vídeos de Frutas Falantes | TikTok, Kwai e Reels",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 30.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/pack-20-mil-videos-virais-bonus-2-mil-videos-de-frutas-falantes-tiktok-kwai-e-reels",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45775&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4624d678edbe",
@@ -3548,12 +4344,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 119.9,
+   "popularity": 113.1,
    "highlights": [],
    "link": "https://basefy.io/p/pack-250-mil-grupos-de-whatsapp-divulgacao-vendas-networking-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44472&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0bcb4ee1ab00",
@@ -3573,7 +4369,7 @@
    "link": "https://basefy.io/p/pack-250-mil-grupos-de-whatsapp-divulgacao-vendas-networking",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25428&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "165b7cc3bc5b",
@@ -3586,12 +4382,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.9,
+   "popularity": 31.8,
    "highlights": [],
    "link": "https://basefy.io/p/pack-cortes-virais-do-podpah-prontos-para-tiktok-reels-e-shorts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44821&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3addaebf1529",
@@ -3604,12 +4400,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.7,
+   "popularity": 31.6,
    "highlights": [],
    "link": "https://basefy.io/p/pack-cortes-virais-nicho-dinheiro-motivacao-e-negocios-para-tiktok-e-reels",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44812&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ce1356d7f484",
@@ -3622,12 +4418,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 38.6,
+   "popularity": 31.5,
    "highlights": [],
    "link": "https://basefy.io/p/pack-cortes-virais-o-mentalista-cenas-prontas-para-tiktok-reels-e-shorts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44803&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "03213eeb7328",
@@ -3640,12 +4436,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 229.2,
+   "popularity": 230.6,
    "highlights": [],
    "link": "https://basefy.io/p/pack-frutas-falantes-videos-virais-para-tiktok-reels-e-shorts-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F12627&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1a19ab725c13",
@@ -3658,12 +4454,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 54.6,
+   "popularity": 47.2,
    "highlights": [],
    "link": "https://basefy.io/p/pack-objetos-falantes-viral-200-videos-prontos-para-bombar-no-tiktok-reels-e-shorts",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44544&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "d89dc656a200",
+   "name": "Pack Vídeos Infantis Animados | Bebês e Bichinhos Fofos para Reels e TikTok",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "pack videos infantis animados bebes bichinhos fofos reels tiktok",
+   "match_label": "Pack Vídeos Infantis Animados | Bebês e Bichinhos Fofos para Reels e TikTok",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 30.7,
+   "highlights": [],
+   "link": "https://basefy.io/p/pack-videos-infantis-animados-bebes-e-bichinhos-fofos-para-reels-e-tiktok",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45548&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4ddbe926fa85",
@@ -3683,7 +4497,7 @@
    "link": "https://basefy.io/p/pacote-10-proxys-sp",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23060&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "87e7b2c80fc8",
@@ -3703,7 +4517,7 @@
    "link": "https://basefy.io/p/pacote-20-proxys-sp",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F3616&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "db5130f2fa3d",
@@ -3721,7 +4535,7 @@
    "link": "https://basefy.io/p/pacote-5-bm-250-disparos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F3615&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6eb4251233e4",
@@ -3739,27 +4553,7 @@
    "link": "https://basefy.io/p/painel-de-seguidores-mais-barato-do-mercado",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F10836&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "8f0de745f0ce",
-   "name": "PERFIL ANTIGO (2010 a 2026) + 1 BM VERIFICADA + 1 BM NORMAL + PÁGINA + PROXY",
-   "category": "Marketing",
-   "site_category": "Top 10 Vendedores",
-   "group": "Proxy",
-   "match_key": "Proxy",
-   "match_label": "Proxy",
-   "duration": "",
-   "price": 179.0,
-   "list_price": null,
-   "popularity": 196.9,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
-   "link": "https://basefy.io/p/perfil-antigo-2010-a-2026-1-bm-verificada-1-bm-normal-pagina-proxy",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28852&w=3840&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "d07db47abd4d",
@@ -3772,14 +4566,14 @@
    "duration": "",
    "price": 99.0,
    "list_price": null,
-   "popularity": 198.0,
+   "popularity": 198.1,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/perfil-antigo-2010-a-2026-bm-normal-pagina-proxy",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28855&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28855&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4bfc70c471fc",
@@ -3792,34 +4586,34 @@
    "duration": "",
    "price": 39.9,
    "list_price": null,
-   "popularity": 197.9,
+   "popularity": 198.0,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/perfil-antigo-mix-proxy",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28845&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28845&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
-   "id": "1b45b7617bba",
-   "name": "Perfil Aquecido com 0~5.000 Amigos / 1~5 Fanpages / Token 2Fatores Ativo / Cookies json / Não Paga Imposto Meta 13% / Proxy90dias",
+   "id": "83d86ceb8055",
+   "name": "Perfil Facebook Antigo 2006 | sem Sms | Marketplace Ativo",
    "category": "Marketing",
    "site_category": "Top 10 Vendedores",
    "group": "",
-   "match_key": "aquecido 0 5 000 amigos 1 5 fanpages token 2fatores ativo cookies json nao paga imposto meta 13 proxy|90",
-   "match_label": "Perfil Aquecido com 0~5.000 Amigos / 1~5 Fanpages / Token 2Fatores Ativo / Cookies json / Não Paga Imposto Meta 13% / Proxy90dias",
-   "duration": "3 meses",
-   "price": 97.5,
+   "match_key": "facebook antigo 2006 sem sms marketplace ativo",
+   "match_label": "Perfil Facebook Antigo 2006 | sem Sms | Marketplace Ativo",
+   "duration": "",
+   "price": 75.0,
    "list_price": null,
-   "popularity": 197.7,
+   "popularity": 197.6,
    "highlights": [
     "Top 10 Vendedores"
    ],
-   "link": "https://basefy.io/p/perfil-aquecido-com-0-5-000-amigos-1-5-fanpages-token-2fatores-ativo-cookies-json-nao-paga-imposto-meta-13-proxy90dias",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F2286&w=256&q=75",
+   "link": "https://basefy.io/p/perfil-facebook-antigo-2006-sem-sms-marketplace-ativo",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F20283&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "105153ff3b16",
@@ -3832,14 +4626,14 @@
    "duration": "",
    "price": 9.9,
    "list_price": null,
-   "popularity": 198.3,
+   "popularity": 198.4,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/perfil-facebook-2fa-ativo-email-alta-qualidade",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28996&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28996&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "fac0fb1683ca",
@@ -3852,14 +4646,14 @@
    "duration": "",
    "price": 120.0,
    "list_price": null,
-   "popularity": 198.4,
+   "popularity": 198.5,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/perfil-facebook-verificado-pagina-antiga",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7205&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a4fd5454f347",
@@ -3879,7 +4673,7 @@
    "link": "https://basefy.io/p/proxy-datacenter-brasil-http-socks5-por-20-a-30-dias",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F31363&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f8efc8bca98b",
@@ -3899,7 +4693,7 @@
    "link": "https://basefy.io/p/proxy-fixa-brasil-1-gb-http-30-dias-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23875&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "72bb46392cfc",
@@ -3919,7 +4713,7 @@
    "link": "https://basefy.io/p/proxy-ilimitada-brasil-eua-portugal-inglaterra",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28865&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6c27aca5ac96",
@@ -3939,7 +4733,7 @@
    "link": "https://basefy.io/p/proxy-ipv4-ipv6-sem-limite-de-gb-pague-mensal",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28860&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "83d867cbc454",
@@ -3959,7 +4753,7 @@
    "link": "https://basefy.io/p/proxy-ipv4-ipv6-sem-limite-de-gb-pague-mensal-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28857&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3bc52e00908d",
@@ -3979,7 +4773,7 @@
    "link": "https://basefy.io/p/proxy-rotativa-brasil-ip-residencial-1gb-a-10gb-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14303&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a81f6b9b5628",
@@ -3999,7 +4793,7 @@
    "link": "https://basefy.io/p/proxy-rotativa-eua-ip-residencial-1gb-a-5gb-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14315&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8e8834868313",
@@ -4012,14 +4806,32 @@
    "duration": "",
    "price": 22.6,
    "list_price": null,
-   "popularity": 197.8,
+   "popularity": 197.9,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/pagina-facebook-2021",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23202&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F23202&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "e9568c39aed2",
+   "name": "Site de Visualização Infinita TikTok e Likes Vitalício",
+   "category": "Marketing",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "site visualizacao infinita tiktok likes vitalicio|vitalício",
+   "match_label": "Site de Visualização Infinita TikTok e Likes Vitalício",
+   "duration": "vitalício",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.7,
+   "highlights": [],
+   "link": "https://basefy.io/p/site-de-visualizacao-infinita-tiktok-e-likes-vitalicio",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45443&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cb2774514cae",
@@ -4032,14 +4844,14 @@
    "duration": "",
    "price": 49.9,
    "list_price": null,
-   "popularity": 196.6,
+   "popularity": 196.7,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/bm-gringa-pronta-para-anunciar-45-90",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F5903&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8bf886ecb62a",
@@ -4057,7 +4869,7 @@
    "link": "https://basefy.io/p/ads-paro-mensal-encotre-ofertas-escaladas-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8478&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b1e504ddc13a",
@@ -4070,12 +4882,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 51.1,
+   "popularity": 43.7,
    "highlights": [],
    "link": "https://basefy.io/p/crm-para-whatsapp-api-oficial-disparos-ilimitados-multiplas-bms-e-automacao-total",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44475&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a5953c06ac42",
@@ -4088,12 +4900,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 54.7,
+   "popularity": 47.3,
    "highlights": [],
    "link": "https://basefy.io/p/200-videos-de-reformas-e-transformacao-antes-e-depois-prontos-para-viralizar",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44546&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "289f80fbc42d",
@@ -4106,12 +4918,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 228.8,
+   "popularity": 230.2,
    "highlights": [],
    "link": "https://basefy.io/p/50k-cortes-videos-virais-de-todos-os-tipos-pronto-para-postar",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F13415&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "999fecbaffb6",
@@ -4131,7 +4943,7 @@
    "link": "https://basefy.io/p/10-proxies-fixas-brasil-ip-fixo-alta-performance-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14616&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f01e644fdec3",
@@ -4144,12 +4956,12 @@
    "duration": "",
    "price": 3.9,
    "list_price": null,
-   "popularity": 229.9,
+   "popularity": 230.9,
    "highlights": [],
    "link": "https://basefy.io/p/menor-preco-50k-cortes-videos-virais-de-todos-os-tipos-pronto-para-postar",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18550&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c8ef3a09890c",
@@ -4162,12 +4974,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 37.3,
+   "popularity": 30.2,
    "highlights": [],
    "link": "https://basefy.io/p/apocalipse-explicado",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44830&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6719075d472e",
@@ -4185,7 +4997,7 @@
    "link": "https://basefy.io/p/assistente-inteligente-de-consultas-puxador-de-dados",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18654&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "d9ea3b13f1ab",
@@ -4198,12 +5010,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.2,
+   "popularity": 32.1,
    "highlights": [],
    "link": "https://basefy.io/p/black-marketing-5-ias-de-copy-funil-e-trafego-para-afiliados-e-produtores",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44837&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "fd3d0d876e74",
@@ -4223,7 +5035,27 @@
    "link": "https://basefy.io/p/black-marketing-5-ias-lek-do-black-copy-funil-e-estrategias",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F9693&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "7e1fafee9d17",
+   "name": "BM0+3 não verificada com acesso por link",
+   "category": "Outros",
+   "site_category": "Top 10 Vendedores",
+   "group": "",
+   "match_key": "bm0 3 nao verificada acesso link",
+   "match_label": "BM0+3 não verificada com acesso por link",
+   "duration": "",
+   "price": 90.0,
+   "list_price": null,
+   "popularity": 196.3,
+   "highlights": [
+    "Top 10 Vendedores"
+   ],
+   "link": "https://basefy.io/p/bm0-3-nao-verificada-com-acesso-por-link",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F31364&w=3840&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "51a3c3f0c9d6",
@@ -4236,14 +5068,14 @@
    "duration": "",
    "price": 150.0,
    "list_price": null,
-   "popularity": 196.3,
+   "popularity": 196.4,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/bm0-3-nao-verificada-de-2024-com-acesso-por-link",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F31373&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "697354a7282b",
@@ -4256,12 +5088,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 64.4,
+   "popularity": 57.4,
    "highlights": [],
    "link": "https://basefy.io/p/bot-de-tickets-discord-para-loja-comunidade-source-codigo-fonte-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45246&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "951736cf369e",
+   "name": "Brasil Paralelo - Acesso Vitalício",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "Brasil Paralelo",
+   "match_key": "Brasil Paralelo|vitalício",
+   "match_label": "Brasil Paralelo (vitalício)",
+   "duration": "vitalício",
+   "price": null,
+   "list_price": null,
+   "popularity": 131.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/brasil-paralelo-acesso-vitalicio-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45571&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1065c6c3b0db",
@@ -4274,30 +5124,12 @@
    "duration": "31 dias",
    "price": null,
    "list_price": null,
-   "popularity": 118.3,
+   "popularity": 111.5,
    "highlights": [],
    "link": "https://basefy.io/p/caixa-clube-do-arquiteto-31-dias-habbo-hotel",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44397&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "9ff5f680da04",
-   "name": "Caixa HC 31 Dias - Habbo Hotel",
-   "category": "Outros",
-   "site_category": "Explorar produtos",
-   "group": "",
-   "match_key": "caixa hc habbo hotel|31",
-   "match_label": "Caixa HC 31 Dias - Habbo Hotel",
-   "duration": "31 dias",
-   "price": null,
-   "list_price": null,
-   "popularity": 118.1,
-   "highlights": [],
-   "link": "https://basefy.io/p/caixa-hc-31-dias-habbo-hotel",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44394&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ad80fda8ad94",
@@ -4315,7 +5147,7 @@
    "link": "https://basefy.io/p/combo-de-videos-infantis-para-viralizar-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F16858&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b80b1e0edefa",
@@ -4328,14 +5160,14 @@
    "duration": "",
    "price": 179.0,
    "list_price": null,
-   "popularity": 197.6,
+   "popularity": 197.8,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/combo-start-pronto-para-anunciar",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28847&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F28847&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "3c415ccc5b23",
@@ -4353,7 +5185,43 @@
    "link": "https://basefy.io/p/como-disparar-usando-utilizando-api-oficial-como-utilizar-crm-segredinhos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7622&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "623823dcbf5c",
+   "name": "CORTES VIRAIS - DE ANIMES TOPS",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "cortes virais animes tops",
+   "match_label": "CORTES VIRAIS - DE ANIMES TOPS",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 40.5,
+   "highlights": [],
+   "link": "https://basefy.io/p/cortes-virais-de-animes-tops-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45469&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "6591e6d02fd3",
+   "name": "Cortes Virais de Desenhos Bíblicos",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "cortes virais desenhos biblicos",
+   "match_label": "Cortes Virais de Desenhos Bíblicos",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/cortes-virais-de-desenhos-biblicos-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45498&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2f340ebf3f0f",
@@ -4366,12 +5234,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.2,
+   "popularity": 32.2,
    "highlights": [],
    "link": "https://basefy.io/p/criacao-e-configuracao-profissional-de-servidores-discord-bots-tickets-cargos-permissoes",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45062&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "5878f5b4aee1",
@@ -4384,12 +5252,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 34.7,
+   "popularity": 27.2,
    "highlights": [],
    "link": "https://basefy.io/p/crie-cenas-ilimitas-dos-seus-personagens",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44644&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "fab67736043e",
@@ -4402,12 +5270,30 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 127.1,
+   "popularity": 121.1,
    "highlights": [],
    "link": "https://basefy.io/p/discord-nitro-3-meses-codigo-de-ativacao-2-boosts-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45186&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "de4668f8dcf0",
+   "name": "Discord Nitro Gaming 3 Meses + 6 Impulsos",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "discord nitro gaming + 6 impulsos|90",
+   "match_label": "Discord Nitro Gaming 3 Meses + 6 Impulsos",
+   "duration": "3 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/discord-nitro-gaming-3-meses-6-impulsos-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45442&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2a3bf5cd783c",
@@ -4420,12 +5306,12 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 39.5,
+   "popularity": 31.9,
    "highlights": [],
    "link": "https://basefy.io/p/edx-premium-12-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44516&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2f4ca3da3479",
@@ -4438,12 +5324,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 96.7,
+   "popularity": 97.5,
    "highlights": [],
    "link": "https://basefy.io/p/entrega-rapida-1-000-grupos-de-vendas",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6610&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0bb3f5dc6b1f",
@@ -4461,7 +5347,25 @@
    "link": "https://basefy.io/p/esim-aquecido-e-novo",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F17110&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "8d061a300b59",
+   "name": "Ferramenta Dota 2 Maphack Auto Skill Radar ESP Licenca 1 Ano",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "ferramenta dota 2 maphack auto skill radar esp licenca|360",
+   "match_label": "Ferramenta Dota 2 Maphack Auto Skill Radar ESP Licenca 1 Ano",
+   "duration": "1 ano",
+   "price": null,
+   "list_price": null,
+   "popularity": 38.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/ferramenta-dota-2-maphack-auto-skill-radar-esp-licenca-1-ano",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45453&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "f5daab985321",
@@ -4474,12 +5378,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 86.2,
+   "popularity": 79.2,
    "highlights": [],
    "link": "https://basefy.io/p/kpopult-app-de-k-pop-19-grupos-152-photocards-quiz-e-videos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44553&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1cbd17f0e05c",
@@ -4492,30 +5396,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 40.0,
+   "popularity": 33.1,
    "highlights": [],
    "link": "https://basefy.io/p/melhore-sua-reputacao-no-google-meu-negocio-avaliacoes-comentarios-brinde",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44820&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "c765310d150a",
-   "name": "Moedas Habbo Hotel - Várias Quantidades",
-   "category": "Outros",
-   "site_category": "Explorar produtos",
-   "group": "",
-   "match_key": "moedas habbo hotel varias quantidades",
-   "match_label": "Moedas Habbo Hotel - Várias Quantidades",
-   "duration": "",
-   "price": null,
-   "list_price": null,
-   "popularity": 118.0,
-   "highlights": [],
-   "link": "https://basefy.io/p/moedas-habbo-hotel-varias-quantidades",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44391&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "59b56e7bebc5",
@@ -4528,12 +5414,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 86.9,
+   "popularity": 80.0,
    "highlights": [],
    "link": "https://basefy.io/p/novelinhas-das-frutas-1-631-videos-de-frutas-falantes-acesso-com-chave",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44630&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "117a7a4a2e9b",
@@ -4546,12 +5432,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 37.4,
+   "popularity": 30.0,
    "highlights": [],
    "link": "https://basefy.io/p/numeros-virtuais-50-paises-estrangeiros-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44720&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "1532e799a056",
+   "name": "O Livro Da Sabedoria Volume 1",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "livro sabedoria volume 1",
+   "match_label": "O Livro Da Sabedoria Volume 1",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 26.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/o-livro-da-sabedoria-volume-1",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44624&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ed467a7d77a5",
@@ -4571,7 +5475,7 @@
    "link": "https://basefy.io/p/pacote-30-proxies-fixas-brasil-ip-fixo-alta-performance-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14620&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "d5ab2a21a36a",
@@ -4591,7 +5495,7 @@
    "link": "https://basefy.io/p/pacote-50-proxies-fixas-brasil-ip-fixo-alta-performance-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F14621&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8feb3b8db37f",
@@ -4604,12 +5508,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 53.8,
+   "popularity": 46.2,
    "highlights": [],
    "link": "https://basefy.io/p/painel-de-buscas-profissional",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44395&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "a1e9f91b1b3c",
@@ -4622,12 +5526,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 40.5,
+   "popularity": 33.7,
    "highlights": [],
    "link": "https://basefy.io/p/pdvpro-sistema-de-vendas-e-gestao",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45365&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "45754c5599f8",
@@ -4640,14 +5544,14 @@
    "duration": "6 meses",
    "price": 85.0,
    "list_price": null,
-   "popularity": 198.1,
+   "popularity": 198.2,
    "highlights": [
     "Top 10 Vendedores"
    ],
    "link": "https://basefy.io/p/perfil-real-pagina-6-meses",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7207&w=256&q=75",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F7207&w=3840&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "70552ebd636f",
@@ -4660,30 +5564,84 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.4,
+   "popularity": 32.7,
    "highlights": [],
    "link": "https://basefy.io/p/promocao-agentes-que-buscam-baixam-e-cortam-lives-de-gta-6-automaticamente",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45397&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
-   "id": "7966c613ef7d",
-   "name": "PROXIES IPV5",
+   "id": "a82cc9534e6f",
+   "name": "PROMPT BOX – 𝑃𝐴𝐶𝐾 𝐷𝐸 𝑃𝑅𝑂𝑀𝑃𝑇𝑆 + 2.4𝐾 𝐹𝐸𝑅𝑅𝐴𝑀𝐸𝑁𝑇𝐴𝑆 𝑁𝑂-𝐶𝑂𝐷𝐸 + 1𝐾 𝐹𝐸𝑅",
    "category": "Outros",
    "site_category": "Explorar produtos",
-   "group": "Proxy",
-   "match_key": "Proxy",
-   "match_label": "Proxy",
+   "group": "",
+   "match_key": "prompt box + 2 4 + 1",
+   "match_label": "PROMPT BOX – 𝑃𝐴𝐶𝐾 𝐷𝐸 𝑃𝑅𝑂𝑀𝑃𝑇𝑆 + 2.4𝐾 𝐹𝐸𝑅𝑅𝐴𝑀𝐸𝑁𝑇𝐴𝑆 𝑁𝑂-𝐶𝑂𝐷𝐸 + 1𝐾 𝐹𝐸𝑅",
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.5,
+   "popularity": 30.7,
    "highlights": [],
-   "link": "https://basefy.io/p/proxies-ipv5",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45136&w=256&q=75",
+   "link": "https://basefy.io/p/prompt-box-2-4-1",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45127&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "b6a21c806a2e",
+   "name": "STL Natal PRO — 80 Modelos de Natal para Impressão 3D | Acesso com Chave",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "stl natal pro 80 modelos natal impressao acesso chave|3",
+   "match_label": "STL Natal PRO — 80 Modelos de Natal para Impressão 3D | Acesso com Chave",
+   "duration": "3 dias",
+   "price": null,
+   "list_price": null,
+   "popularity": 85.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/stl-natal-pro-80-modelos-de-natal-para-impressao-3d-acesso-com-chave",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45734&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "4c9604e9ad71",
+   "name": "Vídeos Virais de Memes e Efeitos Sonoros",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "videos virais memes efeitos sonoros",
+   "match_label": "Vídeos Virais de Memes e Efeitos Sonoros",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/videos-virais-de-memes-e-efeitos-sonoros",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45494&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "3871bce99119",
+   "name": "Vídeos Virais Minimalistas",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "videos virais minimalistas",
+   "match_label": "Vídeos Virais Minimalistas",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.7,
+   "highlights": [],
+   "link": "https://basefy.io/p/videos-virais-minimalistas-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45489&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e5e77cdecb1c",
@@ -4696,12 +5654,12 @@
    "duration": "2 meses",
    "price": null,
    "list_price": null,
-   "popularity": 39.4,
+   "popularity": 31.8,
    "highlights": [],
    "link": "https://basefy.io/p/wonder-platform-2-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44513&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ac9b642d660e",
@@ -4719,7 +5677,43 @@
    "link": "https://basefy.io/p/biblioteca-viral-frutas-falantes-22-000-videos",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F16757&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "56ff686ad3e9",
+   "name": "🎨 **DESIGN UX – ALURA **",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "design ux alura",
+   "match_label": "🎨 **DESIGN UX – ALURA **",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 42.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/design-ux-alura",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45328&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "439a46b706d9",
+   "name": "🎨 DESCOMPLICANDO LOGOS – UNIVERSO DO DESIGN",
+   "category": "Outros",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "descomplicando logos universo design",
+   "match_label": "🎨 DESCOMPLICANDO LOGOS – UNIVERSO DO DESIGN",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 42.2,
+   "highlights": [],
+   "link": "https://basefy.io/p/descomplicando-logos-universo-do-design",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45330&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "bb1b2d9e7b73",
@@ -4737,7 +5731,7 @@
    "link": "https://basefy.io/p/lead-maps-extracao-inteligente-de-leads-anual",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8488&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4b6b9277b088",
@@ -4755,7 +5749,7 @@
    "link": "https://basefy.io/p/rcssms",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25744&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "205869f00f29",
@@ -4768,12 +5762,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 69.0,
+   "popularity": 69.6,
    "highlights": [],
    "link": "https://basefy.io/p/e-sim-vivo-com-internet-ilimitada-ativacao-digital-rapida-via-qr-code",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F27994&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ae255f86c5dc",
@@ -4786,12 +5780,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 32.1,
+   "popularity": 24.5,
    "highlights": [],
    "link": "https://basefy.io/p/40-planos-de-aula-prontos-por-semana-para-professor-em-pdf",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44440&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2f7fff65f328",
@@ -4804,12 +5798,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 32.2,
+   "popularity": 24.6,
    "highlights": [],
    "link": "https://basefy.io/p/apostilas-de-ingles-e-espanhol-curso-completo-em-pdf-para-baixar",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44448&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ba58a7eb2c1c",
@@ -4822,48 +5816,12 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 130.2,
+   "popularity": 123.7,
    "highlights": [],
    "link": "https://basefy.io/p/coursera-premium-org-1-ano",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45263&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "069351e8a626",
-   "name": "Duolingo Max na sua conta | 1 ano",
-   "category": "Produtividade",
-   "site_category": "Explorar produtos",
-   "group": "Duolingo",
-   "match_key": "Duolingo|360",
-   "match_label": "Duolingo (1 ano)",
-   "duration": "1 ano",
-   "price": null,
-   "list_price": null,
-   "popularity": 42.5,
-   "highlights": [],
-   "link": "https://basefy.io/p/duolingo-max-na-sua-conta-1-ano",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45223&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
-  },
-  {
-   "id": "d2714725c0eb",
-   "name": "Duolingo Super na sua conta | 3 e 6 meses",
-   "category": "Produtividade",
-   "site_category": "Explorar produtos",
-   "group": "Duolingo",
-   "match_key": "Duolingo|180",
-   "match_label": "Duolingo (6 meses)",
-   "duration": "6 meses",
-   "price": null,
-   "list_price": null,
-   "popularity": 42.4,
-   "highlights": [],
-   "link": "https://basefy.io/p/duolingo-super-na-sua-conta-3-e-6-meses",
-   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45222&w=256&q=75",
-   "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cfcf2b88eb9e",
@@ -4876,12 +5834,30 @@
    "duration": "1 ano",
    "price": null,
    "list_price": null,
-   "popularity": 42.3,
+   "popularity": 35.4,
    "highlights": [],
    "link": "https://basefy.io/p/duolingo-super-1-ano-conta-pronta-ou-link",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45221&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "07d447fdd926",
+   "name": "ExpressVPN Premium | 30 dias",
+   "category": "Produtividade",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "expressvpn premium|30",
+   "match_label": "ExpressVPN Premium | 30 dias",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 43.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/expressvpn-premium-30-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45610&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "4c0d09b6a83f",
@@ -4894,12 +5870,12 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 127.8,
+   "popularity": 121.8,
    "highlights": [],
    "link": "https://basefy.io/p/linkedin-premium-career-3-meses-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45216&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2428c5250b6a",
@@ -4919,7 +5895,7 @@
    "link": "https://basefy.io/p/linkedin-premium-career-3-meses-recursos-profissionais",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25491&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8c3a3cb4dd52",
@@ -4932,12 +5908,12 @@
    "duration": "15 dias",
    "price": null,
    "list_price": null,
-   "popularity": 39.6,
+   "popularity": 32.6,
    "highlights": [],
    "link": "https://basefy.io/p/nord-vpn-pro-3-meses-15-dias-de-brinde-conta-individual",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45121&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "dc58540156bd",
@@ -4950,12 +5926,12 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 129.9,
+   "popularity": 123.3,
    "highlights": [],
    "link": "https://basefy.io/p/nordvpn-3-meses-acesso-compartilhado-garantia-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45255&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9fa65f5bdcf1",
@@ -4968,12 +5944,30 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 126.4,
+   "popularity": 120.5,
    "highlights": [],
    "link": "https://basefy.io/p/nordvpn-3-meses-ativacao-no-seu-e-mail-garantia-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45134&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "c5bd83367873",
+   "name": "NordVPN 10 dispositivos | 7 dias",
+   "category": "Produtividade",
+   "site_category": "Explorar produtos",
+   "group": "NordVPN",
+   "match_key": "NordVPN|7",
+   "match_label": "NordVPN (7 dias)",
+   "duration": "7 dias",
+   "price": null,
+   "list_price": null,
+   "popularity": 43.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/nordvpn-10-dispositivos-7-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45608&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e5072420f950",
@@ -4991,7 +5985,25 @@
    "link": "https://basefy.io/p/nordvpn-3-meses-ativacao-no-seu-e-mail-garantia",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25445&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "e2ac901e4551",
+   "name": "Notion Business - 3 Meses | Link de Ativação",
+   "category": "Produtividade",
+   "site_category": "Explorar produtos",
+   "group": "Notion",
+   "match_key": "Notion|90",
+   "match_label": "Notion (3 meses)",
+   "duration": "3 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 131.3,
+   "highlights": [],
+   "link": "https://basefy.io/p/notion-business-3-meses-link-de-ativacao-2",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45582&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "492828ceae38",
@@ -5011,7 +6023,7 @@
    "link": "https://basefy.io/p/office-365-acesso-vitalicio",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25397&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "1ac44e6e1a3b",
@@ -5024,12 +6036,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 31.7,
+   "popularity": 24.1,
    "highlights": [],
    "link": "https://basefy.io/p/pack-100-livros-pdf-de-sucesso-dinheiro-e-mentalidade-para-baixar",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44429&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "aa952917fc7b",
@@ -5042,12 +6054,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 59.5,
+   "popularity": 53.0,
    "highlights": [],
    "link": "https://basefy.io/p/pacote-office-365",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45021&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "8abe68f96617",
@@ -5060,12 +6072,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 32.0,
+   "popularity": 24.4,
    "highlights": [],
    "link": "https://basefy.io/p/provas-de-vestibular-fuvest-unicamp-unesp-uerj-ufpr-e-outras-em-pdf",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44439&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "0a42f7783e05",
@@ -5078,12 +6090,48 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 31.8,
+   "popularity": 24.2,
    "highlights": [],
    "link": "https://basefy.io/p/provas-do-enem-2009-a-2024-com-gabaritos-para-baixar-em-pdf",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44436&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "224232761baa",
+   "name": "Spoofer HWID para Windows Licenca 1 Ano com Tutorial",
+   "category": "Produtividade",
+   "site_category": "Explorar produtos",
+   "group": "Windows",
+   "match_key": "Windows|360",
+   "match_label": "Windows (1 ano)",
+   "duration": "1 ano",
+   "price": null,
+   "list_price": null,
+   "popularity": 38.3,
+   "highlights": [],
+   "link": "https://basefy.io/p/spoofer-hwid-para-windows-licenca-1-ano-com-tutorial",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45451&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "c29160ceff90",
+   "name": "VIRAL HOOK STUDIO PRO | ESTÚDIO COMPLETO PARA CRIADORES DE CONTEÚDO + 7 PDFs EXCLUSIVOS",
+   "category": "Produtividade",
+   "site_category": "Explorar produtos",
+   "group": "",
+   "match_key": "viral hook studio pro estudio completo criadores conteudo + 7 pdfs exclusivos",
+   "match_label": "VIRAL HOOK STUDIO PRO | ESTÚDIO COMPLETO PARA CRIADORES DE CONTEÚDO + 7 PDFs EXCLUSIVOS",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 42.6,
+   "highlights": [],
+   "link": "https://basefy.io/p/viral-hook-studio-pro-estudio-completo-para-criadores-de-conteudo-7-pdfs-exclusivos",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45512&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b0cbf0fd6870",
@@ -5101,7 +6149,7 @@
    "link": "https://basefy.io/p/office-365-2025-ativado-vitalicio-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6597&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ca63c2523de7",
@@ -5119,7 +6167,7 @@
    "link": "https://basefy.io/p/windows-11-ativado-entrega-automatica",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F6599&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "7786bcfcabfb",
@@ -5132,12 +6180,30 @@
    "duration": "6 meses",
    "price": null,
    "list_price": null,
-   "popularity": 119.3,
+   "popularity": 112.5,
    "highlights": [],
    "link": "https://basefy.io/p/amazon-prime-video-6-meses-conta-privada-4",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44458&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "43409c0337f3",
+   "name": "Amazon Prime Video Premium 30 Dias Filmes Series e Originais",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Prime Video",
+   "match_key": "Prime Video|30",
+   "match_label": "Prime Video (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 38.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/amazon-prime-video-premium-30-dias-filmes-series-e-originais",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45447&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ad27e00e57c5",
@@ -5157,7 +6223,7 @@
    "link": "https://basefy.io/p/amazon-prime-video-6-meses-conta-privada-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F25414&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c5b9fa10fe88",
@@ -5170,12 +6236,12 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 39.2,
+   "popularity": 32.0,
    "highlights": [],
    "link": "https://basefy.io/p/canal-youtube-antigo-2015-20-ou-3f-ativo-2006-09-alto-trust",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44768&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9e028a38eec4",
@@ -5188,12 +6254,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 130.1,
+   "popularity": 123.5,
    "highlights": [],
    "link": "https://basefy.io/p/crunchyroll-premium-1-mes-ativacao-na-sua-conta-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45258&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "9cc78b2f7c63",
@@ -5206,12 +6272,48 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 35.2,
+   "popularity": 28.0,
    "highlights": [],
    "link": "https://basefy.io/p/disney-premium-hulu-star-espn-conta-ou-tela-privada",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44580&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "97108ee7ec93",
+   "name": "HBO MAX 30 Dias — Melhor Qualidade Full HD e 4K",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "HBO Max",
+   "match_key": "HBO Max|30",
+   "match_label": "HBO Max (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/hbo-max-30-dias-melhor-qualidade-full-hd-e-4k",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45420&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "c02b2a2a0983",
+   "name": "HBO Max Plano Platinum 4K 30 Dias Perfil Privado",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "HBO Max",
+   "match_key": "HBO Max|30",
+   "match_label": "HBO Max (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/hbo-max-plano-platinum-4k-30-dias-perfil-privado",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45474&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "2fda30883770",
@@ -5224,12 +6326,48 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 43.6,
+   "popularity": 36.7,
    "highlights": [],
    "link": "https://basefy.io/p/hbo-max-plano-platinum-4k-ultra-hd-30-dias-tela-individual",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45270&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "fa272226d313",
+   "name": "HBO MAX — Seu Entretenimento Garantido 30 Dias",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "HBO Max",
+   "match_key": "HBO Max|30",
+   "match_label": "HBO Max (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 40.8,
+   "highlights": [],
+   "link": "https://basefy.io/p/hbo-max-seu-entretenimento-garantido-30-dias",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45417&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "4de400c0a648",
+   "name": "Netflix 4K Ultra HD 30 Dias Acesso Compartilhado TV e Celular",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Netflix",
+   "match_key": "Netflix|30",
+   "match_label": "Netflix (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 40.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/netflix-4k-ultra-hd-30-dias-acesso-compartilhado-tv-e-celular",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45473&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "840df7f6f184",
@@ -5242,12 +6380,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 43.7,
+   "popularity": 36.8,
    "highlights": [],
    "link": "https://basefy.io/p/netflix-4k-ultra-hd-30-dias-tela-compartilhada-acesso-rapido",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45271&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "730f299a16e4",
@@ -5258,16 +6396,32 @@
    "match_key": "Paramount+|30",
    "match_label": "Paramount+ (1 mês)",
    "duration": "1 mês",
-   "price": 1.99,
+   "price": null,
    "list_price": null,
-   "popularity": 200.5,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 38.2,
+   "highlights": [],
    "link": "https://basefy.io/p/paramount-plus-premium-30-dias-de-acesso-filmes-e-series",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45286&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "2cacde69634f",
+   "name": "Paramount Plus Premium 30 Dias Filmes Series e Esportes",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Paramount+",
+   "match_key": "Paramount+|30",
+   "match_label": "Paramount+ (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.2,
+   "highlights": [],
+   "link": "https://basefy.io/p/paramount-plus-premium-30-dias-filmes-series-e-esportes",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45476&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "c5a30c945ca8",
@@ -5280,12 +6434,30 @@
    "duration": "",
    "price": null,
    "list_price": null,
-   "popularity": 41.2,
+   "popularity": 34.7,
    "highlights": [],
    "link": "https://basefy.io/p/prime-netflix-disney-hbo-max-paramount-combos-de-streaming-2",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44950&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "c6814a38fa02",
+   "name": "PRIME VIDEO E PARAMOUNT+ PREMIUM – 6 MESES",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Prime Video",
+   "match_key": "Prime Video|180",
+   "match_label": "Prime Video (6 meses)",
+   "duration": "6 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 45.2,
+   "highlights": [],
+   "link": "https://basefy.io/p/prime-video-e-paramount-premium-6-meses",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45595&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "b02149582beb",
@@ -5298,12 +6470,12 @@
    "duration": "6 meses",
    "price": null,
    "list_price": null,
-   "popularity": 44.3,
+   "popularity": 37.3,
    "highlights": [],
    "link": "https://basefy.io/p/prime-video-6-meses-conta-pronta-privada",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44879&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "992b82aced18",
@@ -5316,12 +6488,12 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 124.5,
+   "popularity": 117.8,
    "highlights": [],
    "link": "https://basefy.io/p/spotify-3-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45032&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "6a0dced1e67f",
@@ -5341,7 +6513,43 @@
    "link": "https://basefy.io/p/spotify-premium-3-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F42865&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "569dfa7a0cd7",
+   "name": "Spotify Premium 3 Meses Conta Privada Exclusiva Offline",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Spotify Premium",
+   "match_key": "Spotify Premium|90",
+   "match_label": "Spotify Premium (3 meses)",
+   "duration": "3 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/spotify-premium-3-meses-conta-privada-exclusiva-offline",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45478&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "2b6d5be84f5c",
+   "name": "Spotify Premium 30 Dias de Uso — Entrega Rápida",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Spotify Premium",
+   "match_key": "Spotify Premium|30",
+   "match_label": "Spotify Premium (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/spotify-premium-30-dias-de-uso-entrega-rapida",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45435&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "cc6d77063189",
@@ -5354,12 +6562,30 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 43.4,
+   "popularity": 36.3,
    "highlights": [],
    "link": "https://basefy.io/p/spotify-premium-acesso-privado-3-meses-download-offline",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45266&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "3eee2df29ca5",
+   "name": "Spotify Premium Conta Privada 1 Mes Acesso Exclusivo",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Spotify Premium",
+   "match_key": "Spotify Premium|30",
+   "match_label": "Spotify Premium (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 36.0,
+   "highlights": [],
+   "link": "https://basefy.io/p/spotify-premium-conta-privada-1-mes-acesso-exclusivo",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45444&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "e146086df6b2",
@@ -5372,12 +6598,30 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 43.3,
+   "popularity": 36.2,
    "highlights": [],
    "link": "https://basefy.io/p/spotify-premium-conta-privada-3-meses-sem-anuncios-e-offline",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45265&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "e13929702afe",
+   "name": "Spotify Premium Conta Privada Escolha Seu Plano",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "Spotify Premium",
+   "match_key": "Spotify Premium",
+   "match_label": "Spotify Premium",
+   "duration": "",
+   "price": null,
+   "list_price": null,
+   "popularity": 36.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/spotify-premium-conta-privada-escolha-seu-plano",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45445&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "d0bafca59066",
@@ -5390,12 +6634,12 @@
    "duration": "1 mês",
    "price": null,
    "list_price": null,
-   "popularity": 43.2,
+   "popularity": 35.9,
    "highlights": [],
    "link": "https://basefy.io/p/spotify-premium-conta-pronta-1-mes-e-3-meses",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45230&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "5639edc161d8",
@@ -5408,12 +6652,66 @@
    "duration": "3 meses",
    "price": null,
    "list_price": null,
-   "popularity": 220.8,
+   "popularity": 214.4,
    "highlights": [],
    "link": "https://basefy.io/p/spotify-premium-3-meses-link-de-ativacao-3",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F44750&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "53e9da750955",
+   "name": "YouTube Premium + Music 30 Dias — Ativado no Seu Email",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "YouTube Premium",
+   "match_key": "YouTube Premium|30",
+   "match_label": "YouTube Premium (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 40.9,
+   "highlights": [],
+   "link": "https://basefy.io/p/youtube-premium-music-30-dias-ativado-no-seu-email",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45419&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "be0e767fc262",
+   "name": "YOUTUBE PREMIUM + YOUTUBE MUSIC PREMIUM – 6 MESES!",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "YouTube Premium",
+   "match_key": "YouTube Premium|180",
+   "match_label": "YouTube Premium (6 meses)",
+   "duration": "6 meses",
+   "price": null,
+   "list_price": null,
+   "popularity": 43.4,
+   "highlights": [],
+   "link": "https://basefy.io/p/youtube-premium-youtube-music-premium-6-meses",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45499&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
+  },
+  {
+   "id": "8c88ffa58ba6",
+   "name": "YouTube Premium e Music 30 Dias Sem Anuncios no Seu Gmail",
+   "category": "Streaming",
+   "site_category": "Explorar produtos",
+   "group": "YouTube Premium",
+   "match_key": "YouTube Premium|30",
+   "match_label": "YouTube Premium (1 mês)",
+   "duration": "1 mês",
+   "price": null,
+   "list_price": null,
+   "popularity": 41.1,
+   "highlights": [],
+   "link": "https://basefy.io/p/youtube-premium-e-music-30-dias-sem-anuncios-no-seu-gmail",
+   "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45475&w=256&q=75",
+   "site": "Basefy",
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "239b3fdf473c",
@@ -5424,16 +6722,14 @@
    "match_key": "YouTube Premium|30",
    "match_label": "YouTube Premium (1 mês)",
    "duration": "1 mês",
-   "price": 4.99,
+   "price": null,
    "list_price": null,
-   "popularity": 200.4,
-   "highlights": [
-    "Top 10 Vendedores"
-   ],
+   "popularity": 38.0,
+   "highlights": [],
    "link": "https://basefy.io/p/youtube-premium-e-youtube-music-zero-anuncios-30-dias-no-seu-gmail",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F45284&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "ab498c7b9c27",
@@ -5453,7 +6749,7 @@
    "link": "https://basefy.io/p/prime-video-6-meses-receba-na-hora",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F18766&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   },
   {
    "id": "7f8dab1aff6e",
@@ -5473,7 +6769,7 @@
    "link": "https://basefy.io/p/ytpremium",
    "image": "https://basefy.io/_next/image?url=https%3A%2F%2Fapi.basefy.io%2Fapi%2Fmedia%2F8474&w=256&q=75",
    "site": "Basefy",
-   "seen_at": "2026-11-22T15:24:52-03:00"
+   "seen_at": "2026-11-22T21:10:01-03:00"
   }
  ]
 }
